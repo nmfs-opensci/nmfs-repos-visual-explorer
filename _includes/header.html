@@ -1,0 +1,40 @@
+<nav id="header-slim" class="navbar navbar-default">
+
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#siteNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/{{site.name}}/">{{site.name}}</a>
+    </div>
+
+    <div id="siteNavbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right navbar-collapse">
+        <li id="home" >
+          <a class="navbar-normal" href="/awesome-list-visual-explorer-template/">Home</a>
+        </li>
+        <li id="about"
+            {% if page.url == "/about/" %} class="active dropdown"
+            {% else %} class="dropdown"
+            {% endif %}><a class="navbar-normal" href="/awesome-list-visual-explorer-template/about/">About</a>
+        </li> 
+        <li id="explore"
+            {% if page.url="/explore/" %} class="active dropdown"
+            {% else %} class="dropdown"
+            {% endif %}><a class="navbar-normal" href="/awesome-list-visual-explorer-template/explore/">Explore</a>
+          <div class="dropdown-content">
+            <p><a class="navbar-normal" href="/awesome-list-visual-explorer-template/explore/dependencies/">Dependencies</a></p>
+            <p><a class="navbar-normal" href="/awesome-list-visual-explorer-template/explore/popular-repos/">Popular Repositories</a></p>
+          </div>
+        </li>
+        <li id="github-button"><a href="https://github.com/{{site.repository}}"><span class="fa fa-github fa-lg"></span></a></li>
+        <li id="twitter-button"><a href="https://twitter.com/{{site.twitter.username}}"><span class="fa fa-twitter fa-lg"></span></a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+<span id="forkongithub"><a alt="Fork me on GitHub" title="Fork me on GitHub" href="https://github.com/{{site.repository}}" target="_blank">Fork me on GitHub</a></span>
+

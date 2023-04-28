@@ -1,0 +1,98 @@
+#### Name is the name of the repository. This will be used throughout in both text, HTML, CSS, and JavaScript files.
+name: "awesome-list-visual-explorer-template"
+author: "Justin Gosses"
+#### title is used as the title attribute in HTML pages.
+title: "awesome-list-visual-explorer-template"
+description: "This site shows all the GitHub repositories extracted from a given awesome list, as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between code projects!"
+remote_theme: LLNL/Jekyll-LLNL-Theme@main
+##### A shortname for the main organization if there is one.
+shortname: "visual-explorer"
+
+# url: "https://softwareunderground.github.io/llnl.github.io/"
+# repo_url: "https://github.com/softwareunderground/llnl.github.io"
+#### This is the repository name and needs to be populated if deploying to a github pages page, which is the defaults.
+baseurl: "/awesome-list-visual-explorer-template"
+
+#### Change these variables to control which awesome list README is parsed and the links to github repositories extracted and then used to populate the page content.
+should_a_readme_be_parsed_for_code_projects: True
+raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md
+non_raw_link_to_awesome_list_readme_to_parse: https://github.com/softwareunderground/awesome-open-geoscience/blob/main/README.md
+awesome_list_repo_name: awesome-open-geoscience
+path_to_directory_to_save_awesome_list_readme: _explore
+filename_to_save_awesome_list_readme: awesome-open-geoscience.md
+#### Eventually, it would be nice to be able to work with GitLab and other code platform APIs as well but for now ths is just GitHub.
+name_of_code_platform_searched: https://github.com
+#### If True, this wipes out existing organizations and repositories listed in inputs_lists.json file that is used by the script to call the GitHub API.
+wipe_existing_content_from_input_lists_json: True
+
+#### There are situations where there are github repository links mentioned in the README that you'd prefer now to be included. 
+#### The base case example of this is the username sindresorhus who owns the AWESOME-LIST base repository that is often linked 
+#### to as the default example of waht an awesome list is.
+exclude_these_usernames:
+  - "sindresorhus"
+
+#### The orginal repository from LLNL used piwik to track user traffic. We're turning that off here.
+# LLNL Piwik Analytics https://analytics.llnl.gov
+# piwik_id: 250
+
+#### The orginal repository from LLNL also used Google Analytics to track user traffic. We're turning that off here.
+# Google Analytics ID
+#google_analytics:
+#  tracking_id: UA-75179431-1
+
+# Twitter username (used by jekyll-seo-tag)
+twitter:
+  username: JustinGOSSES
+
+# GitHub Metadata -- https://github.com/jekyll/github-metadata
+# repository: softwareunderground/open_geosciene_code_projects_viz
+#### NOT SURE WHAT THIS LINE DOES BUT TRyING TO AVOID LINKS BEING WRONG SO CHANGING IT
+repository: JustinGOSSES/awesome-list-visual-explorer-template
+
+#### This is called by the swap_repo_names.sh scripts and replaces all instances of the name of the repository this code is in.
+#### You would want to do this when reusing this template!
+#replace_all_instances_of_this_string_with_string_below_in_config: open_geosciene_code_projects_viz
+replace_all_instances_of_this_string_with_string_below_in_config: awesome-list-visual-explorer-template
+replaced_all_instances_of_string_above_in_config_with: awesome-list-visual-explorer-template
+files_to_not_replace_string_in: 
+  - _config.yml
+  - README.md
+  - intRepos_ActivityCommits.json
+  - intUsers.json
+  - intRepo_Metadata.json
+  - intRepos_CreationHistory.json
+  - intRepos_Dependencies.json
+  - intRepos_Languages.json
+  - intRepos_ReleaseHistory.json
+  - intRepos_StarHistory.json
+  - intRepos_Topics.json
+  - intReposInfo.json
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+kramdown:
+  auto_ids: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/news/:year/:month/:day/:title/"
+
+permalink: pretty
+
+exclude:
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - Makefile
+    - build

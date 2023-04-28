@@ -1,0 +1,110 @@
+{
+    "data": {
+        "Awesome": {
+            "title": "Awesome",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/performance.svg",
+                "alt": "having to do with the Awesome Lists"
+            },
+            "description" : {
+                "short": "Repos having to do with the Awesome Lists",
+                "long": ""
+            },
+            "topics": [
+                "Awesome",
+                "Awesome-list",
+                "Awesome-Lists"
+            ]
+        },
+        "DATA MANAGEMENT & VIZ": {
+            "title": "DATA MANAGEMENT",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/data-manage.svg",
+                "alt": "Data Management"
+            },
+            "description": {
+                "short": "Data and data management repositories",
+                "long": ""
+            },
+            "topics": [
+                "data-management"
+            ]
+        },
+        "WEB SITES & APPLICATIONS": {
+            "title": "WEB SITES & APPLICATIONS",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/application.svg",
+                "alt": "WEB SITES & APPLICATIONS"
+            },
+            "description": {
+                "short": "Repositories that are WEB SITES & APPLICATIONS",
+                "long": ""
+            },
+            "topics": [
+                "application",
+                "applications",
+                "website",
+                "websites",
+                "web",
+                "server",
+                "front-end"
+            ]
+        },
+        "Visualization": {
+            "title": "Visualization",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/prox-app.svg",
+                "alt": "data visualization"
+            },
+            "description": {
+                "short": "repos tagged with the data-visualization or visualization topic",
+                "long": ""
+            },
+            "topics": [
+                "visualization",
+                "data-visualization",
+                "dataviz",
+                "viz",
+                "d3",
+                "holoviz"
+            ]
+        },
+        "SYSTEM SOFTWARE": {
+            "title": "SYSTEM SOFTWARE",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/system-software.svg",
+                "alt": "Systems Software"
+            },
+            "description": {
+                "short": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
+                "long": ""
+            },
+            "topics": [
+                "system-software",
+                "system",
+                "backend",
+                "server",
+                "serve"
+            ]
+        },
+        "DATA": {
+            "title": "DATA MINING",
+            "icon": {
+                "path": "/awesome-list-visual-explorer-template/assets/images/file-systems.svg",
+                "alt": "File Systems"
+            },
+            "description": {
+                "short": "Repos tagged with the dataset related topic tag.",
+                "long": ""
+            },
+            "topics": [
+                "data-mining",
+                "data",
+                "datasets",
+                "catalogs",
+                "dataset",
+                "model"
+            ]
+        }
+    }
+}
