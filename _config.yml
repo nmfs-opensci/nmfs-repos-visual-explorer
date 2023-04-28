@@ -15,8 +15,8 @@ baseurl: "/nmfs-repos-visual-explorer"
 
 #### Change these variables to control which awesome list README is parsed and the links to github repositories extracted and then used to populate the page content.
 should_a_readme_be_parsed_for_code_projects: True
-raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/nmfs-opensci/NMFS-repos/master/code.json
-non_raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/nmfs-opensci/NMFS-repos/master/code.json
+raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/nmfs-opensci/NMFS-repos/main/code.json
+non_raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/nmfs-opensci/NMFS-repos/main/code.json
 awesome_list_repo_name: code-nmfs-code-json
 path_to_directory_to_save_awesome_list_readme: _explore
 filename_to_save_awesome_list_readme: code.json
