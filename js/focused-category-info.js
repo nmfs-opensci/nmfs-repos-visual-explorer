@@ -4,15 +4,15 @@ angular.module('app', []).controller('gitHubDataController', [
     '$window',
     '$location',
     function($scope, $http, $window, $location) {
-        var getCategoryInfo = $http.get('/awesome-list-visual-explorer-template/category/category_info.json', {
+        var getCategoryInfo = $http.get('/nmfs-repos-visual-explorer/category/category_info.json', {
             cache: true
         });
 
-        var getReposTopics = $http.get('/awesome-list-visual-explorer-template/explore/github-data/intRepos_Topics.json', {
+        var getReposTopics = $http.get('/nmfs-repos-visual-explorer/explore/github-data/intRepos_Topics.json', {
             cache: true
         });
 
-        var getReposInfo = $http.get('/awesome-list-visual-explorer-template/explore/github-data/intReposInfo.json', {
+        var getReposInfo = $http.get('/nmfs-repos-visual-explorer/explore/github-data/intReposInfo.json', {
             cache: true
         });
 
@@ -101,7 +101,7 @@ angular.module('app', []).controller('gitHubDataController', [
                     var index = $scope.catData.length - 1;
                     $scope.selectedIndex = index;
                     var result = $scope.catData[index].title.replace(/ /g, '');
-                    $window.location.href = '/awesome-list-visual-explorer-template/category#' + result;
+                    $window.location.href = '/nmfs-repos-visual-explorer/category#' + result;
                 }
             }
 
@@ -173,7 +173,7 @@ angular.module('app', []).controller('gitHubDataController', [
                 //function to generate hash url for each category
                 $scope.categoryHref = function(nametag) {
                     var result = nametag.replace(/ /g, '');
-                    $window.location.href = '/awesome-list-visual-explorer-template/category#' + result;
+                    $window.location.href = '/nmfs-repos-visual-explorer/category#' + result;
                 };
             });
         });

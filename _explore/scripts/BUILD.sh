@@ -8,9 +8,11 @@ exec &> >(tee ../LAST_MASTER_UPDATE.log)
 export GITHUB_DATA=../../explore/github-data
 DATELOG=../LAST_MASTER_UPDATE.txt
 
+echo "got to line 11"
+
 # On exit
-function finish { echo -e "END\t$(date -u)" >> $DATELOG }
-trap finish EXIT
+# function finish { echo -e "END\t$(date -u)" >> $DATELOG }
+# trap finish EXIT
 
 echo "got to line 18 of BUILD.sh file"
 

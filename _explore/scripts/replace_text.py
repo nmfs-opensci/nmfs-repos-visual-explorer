@@ -86,6 +86,6 @@ replace(root_level_index_path, replace_all_instances_of_this_string_with_string_
 print("just run command replacing text in index.html")
 
 ##### replace repo name in ../../_site/category/category_info.json
-print("replacing text in ../../_site/category/category_info.json")
-replace("../../_site/category/category_info.json",replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
+#print("replacing text in ../../_site/category/category_info.json")
+#replace("../../_site/category/category_info.json",replace_all_instances_of_this_string_with_string_below_in_config,replaced_all_instances_of_string_above_in_config_with)
 

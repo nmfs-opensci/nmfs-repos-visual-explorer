@@ -4,6 +4,13 @@ These are a set of scripts for updating the local github data in this repository
 
 ## Getting Started
 
+Set up the environment variables. Use a personal access token.
+```
+echo 'export GITHUB_API_TOKEN=xyz' >> ~/.zshenv
+```
+
+
+
 ```
 # Create a Python virtual environment
 virtualenv -p python3 venv
@@ -15,8 +22,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the script to get details from an awesome list
-bash grabNewRepos.sh
+bash grabNewRepos_EEH.sh
 
 # Run the collection script
+# This takes a while as it uses the GitHub API to get info
 bash BUILD.sh
 ```

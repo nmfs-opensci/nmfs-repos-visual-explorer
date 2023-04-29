@@ -1,0 +1,2231 @@
+{
+    "data": {
+        "NEFSC/READ_SSB_DePiper_ICES_Conceptual_Model": {
+            "createdAt": "2021-11-01T18:12:27Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Presentation to ICES on conceptual modeling",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 8
+            },
+            "name": "READ_SSB_DePiper_ICES_Conceptual_Model",
+            "nameWithOwner": "NEFSC/READ_SSB_DePiper_ICES_Conceptual_Model",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/68607162?v=4",
+                "login": "NEFSC"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "JavaScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NEFSC/READ_SSB_DePiper_ICES_Conceptual_Model"
+        },
+        "NEFSC/READ_SSB_ICES_Conceptual_model": {
+            "createdAt": "2021-11-01T17:01:01Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Presentation of conceptual modeling for ICES",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 8
+            },
+            "name": "READ_SSB_ICES_Conceptual_model",
+            "nameWithOwner": "NEFSC/READ_SSB_ICES_Conceptual_model",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/68607162?v=4",
+                "login": "NEFSC"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "JavaScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NEFSC/READ_SSB_ICES_Conceptual_model"
+        },
+        "NMML/Hierarchical_DS": {
+            "createdAt": "2011-09-26T23:06:22Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "hierachical distance sampling ",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "Hierarchical_DS",
+            "nameWithOwner": "NMML/Hierarchical_DS",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/NMML/Hierarchical_DS"
+        },
+        "NMML/PCspatreg": {
+            "createdAt": "2014-08-04T17:03:11Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A demo of programming a spatial regression MCMC with Rcpp/RcppArmadillo ",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "PCspatreg",
+            "nameWithOwner": "NMML/PCspatreg",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/PCspatreg"
+        },
+        "NMML/PvIliamna": {
+            "createdAt": "2013-06-19T23:40:46Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "PvIliamna",
+            "nameWithOwner": "NMML/PvIliamna",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/PvIliamna"
+        },
+        "NMML/SSL_field_camp": {
+            "createdAt": "2014-04-25T21:12:21Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "SSL_field_camp",
+            "nameWithOwner": "NMML/SSL_field_camp",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/SSL_field_camp"
+        },
+        "NMML/SSLfish": {
+            "createdAt": "2013-03-06T19:05:00Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Simulation experiment for assessing validity Steller sea lion / fisheries interaction methods in the literature",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "SSLfish",
+            "nameWithOwner": "NMML/SSLfish",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/SSLfish"
+        },
+        "NMML/TempOcc": {
+            "createdAt": "2011-07-12T18:12:12Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Temporal occupancy R package",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "TempOcc",
+            "nameWithOwner": "NMML/TempOcc",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/NMML/TempOcc"
+        },
+        "NMML/agTrend": {
+            "createdAt": "2013-03-06T00:00:21Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "R package for Bayesian inference of abundance trends",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "agTrend",
+            "nameWithOwner": "NMML/agTrend",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 3
+            },
+            "url": "https://github.com/NMML/agTrend"
+        },
+        "NMML/bass": {
+            "createdAt": "2012-06-13T00:23:52Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Tools and analysis procedures related to the Bering-Arctic Seal Surveys",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "bass",
+            "nameWithOwner": "NMML/bass",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/NMML/bass"
+        },
+        "NMML/crawl": {
+            "createdAt": "2011-07-07T19:58:07Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "R package for modeling animal movement with continuous-time correlated random walk models",
+            "forks": {
+                "totalCount": 7
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 26
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "crawl",
+            "nameWithOwner": "NMML/crawl",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 6
+            },
+            "pullRequests_Merged": {
+                "totalCount": 25
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 15
+            },
+            "url": "https://github.com/NMML/crawl"
+        },
+        "NMML/crawlHelper": {
+            "createdAt": "2011-07-07T19:56:07Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Additional useful functions when modeling animal movement with crawl",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "crawlHelper",
+            "nameWithOwner": "NMML/crawlHelper",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/NMML/crawlHelper"
+        },
+        "NMML/crawl_toolbox": {
+            "createdAt": "2014-03-21T00:44:18Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "crawl_toolbox",
+            "nameWithOwner": "NMML/crawl_toolbox",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 4
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/crawl_toolbox"
+        },
+        "NMML/kfdnm": {
+            "createdAt": "2014-11-12T23:32:48Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "R package for fitting known-fate, dynamic N-mixture models",
+            "forks": {
+                "totalCount": 3
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "kfdnm",
+            "nameWithOwner": "NMML/kfdnm",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NMML/kfdnm"
+        },
+        "NMML/sunFuncs": {
+            "createdAt": "2011-07-07T19:25:40Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "sunFuncs",
+            "nameWithOwner": "NMML/sunFuncs",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/872044?v=4",
+                "login": "NMML"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/NMML/sunFuncs"
+        },
+        "PIFSCstockassessments/AGEPRO": {
+            "createdAt": "2021-06-03T02:57:24Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Age Structured Projection Model",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "AGEPRO",
+            "nameWithOwner": "PIFSCstockassessments/AGEPRO",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/AGEPRO"
+        },
+        "PIFSCstockassessments/JABBA": {
+            "createdAt": "2023-04-26T00:34:42Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Just Another Bayesian Biomass Assessment",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "JABBA",
+            "nameWithOwner": "PIFSCstockassessments/JABBA",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": {
+                "name": "JABBA",
+                "nameWithOwner": "jabbamodel/JABBA",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/35276887?u=53a672c6ebebeb1fc40d9e5fd5dc117000c540bf&v=4",
+                    "login": "jabbamodel"
+                }
+            },
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/JABBA"
+        },
+        "PIFSCstockassessments/MHI_Bottomfish_Explorations": {
+            "createdAt": "2022-02-17T20:35:00Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Repository for the Main Hawaiian Islands Deep 7 Bottomfish Stock Assessment",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "MHI_Bottomfish_Explorations",
+            "nameWithOwner": "PIFSCstockassessments/MHI_Bottomfish_Explorations",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 5
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 3
+            },
+            "url": "https://github.com/PIFSCstockassessments/MHI_Bottomfish_Explorations"
+        },
+        "PIFSCstockassessments/StepwiseLH": {
+            "createdAt": "2018-04-16T21:48:26Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Package to generate life history probability distributions from an estimate of maximum length.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 13
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "StepwiseLH",
+            "nameWithOwner": "PIFSCstockassessments/StepwiseLH",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 6
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/StepwiseLH"
+        },
+        "PIFSCstockassessments/fishnurseries": {
+            "createdAt": "2019-03-14T19:30:00Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "fishnurseries",
+            "nameWithOwner": "PIFSCstockassessments/fishnurseries",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/fishnurseries"
+        },
+        "PIFSCstockassessments/r4ss": {
+            "createdAt": "2022-02-15T19:11:38Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "files for r4ss package",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://r4ss.github.io/r4ss/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "r4ss",
+            "nameWithOwner": "PIFSCstockassessments/r4ss",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": {
+                "name": "r4ss",
+                "nameWithOwner": "r4ss/r4ss",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6178431?v=4",
+                    "login": "r4ss"
+                }
+            },
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/r4ss"
+        },
+        "PIFSCstockassessments/ss3diags": {
+            "createdAt": "2022-02-16T00:49:47Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "R package with advanced diagnostics to evaluate a Stock Synthesis model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "http://pifscstockassessments.github.io/ss3diags/",
+            "issues_Closed": {
+                "totalCount": 30
+            },
+            "issues_Open": {
+                "totalCount": 17
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "ss3diags",
+            "nameWithOwner": "PIFSCstockassessments/ss3diags",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 2
+            },
+            "pullRequests_Merged": {
+                "totalCount": 29
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 2
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/PIFSCstockassessments/ss3diags"
+        },
+        "SEFSC/QuartoReport_SE": {
+            "createdAt": "2022-08-12T13:18:40Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Demo report",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": "https://sefsc.github.io/QuartoReport_SE/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "QuartoReport_SE",
+            "nameWithOwner": "SEFSC/QuartoReport_SE",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/79712936?v=4",
+                "login": "SEFSC"
+            },
+            "parent": {
+                "name": "QuartoReport_SE",
+                "nameWithOwner": "RVerse-Tutorials/QuartoReport_SE",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/42900757?v=4",
+                    "login": "RVerse-Tutorials"
+                }
+            },
+            "primaryLanguage": {
+                "name": "TeX"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/SEFSC/QuartoReport_SE"
+        },
+        "SEFSC/SEAMAPD21": {
+            "createdAt": "2021-05-17T18:36:35Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "SEAMAPD21 was created to enable fishery scientists and researchers to process raw image-based data at high volumes at a much quicker rate than current manual methods. This open-source dataset contains 90,000 annotations for 130 species of fish from two annual surveys done in 2018 and 2019 in strategic areas of the Gulf of Mexico using baited remote underwater video systems to assess reef fish populations.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 8
+            },
+            "name": "SEAMAPD21",
+            "nameWithOwner": "SEFSC/SEAMAPD21",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/79712936?v=4",
+                "login": "SEFSC"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Shell"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/SEFSC/SEAMAPD21"
+        },
+        "edavidaja/fisheries": {
+            "createdAt": "2022-11-01T18:14:52Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "NOAA stock synthesis invoked by plumber API",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://colorado.rstudio.com/rsc/fisheries",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "fisheries",
+            "nameWithOwner": "edavidaja/fisheries",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/12927842?u=9cb2ca9e25f5f82933d10ec4b0f1da35885a3a44&v=4",
+                "login": "edavidaja"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 3
+            },
+            "url": "https://github.com/edavidaja/fisheries"
+        },
+        "espinielli/status": {
+            "createdAt": "2020-12-20T18:28:15Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "repos dashboard",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "status",
+            "nameWithOwner": "espinielli/status",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/891692?v=4",
+                "login": "espinielli"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/espinielli/status"
+        },
+        "futureseas/EconAnalysis": {
+            "createdAt": "2021-07-26T21:00:52Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Economic analysis of the project (e.g. landings model and discrete choice model)",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "EconAnalysis",
+            "nameWithOwner": "futureseas/EconAnalysis",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/40184714?v=4",
+                "login": "futureseas"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/futureseas/EconAnalysis"
+        },
+        "futureseas/SardineMSE": {
+            "createdAt": "2022-06-27T20:47:10Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Management Strategy Evaluation of Pacific sardine Stock Synthesis assessment",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "SardineMSE",
+            "nameWithOwner": "futureseas/SardineMSE",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/40184714?v=4",
+                "login": "futureseas"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Scheme"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/futureseas/SardineMSE"
+        },
+        "futureseas/recrmntDFA": {
+            "createdAt": "2023-01-10T18:08:25Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Dynamic Factor Analysis of sardine and anchovy recruitment",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "recrmntDFA",
+            "nameWithOwner": "futureseas/recrmntDFA",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/40184714?v=4",
+                "login": "futureseas"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/futureseas/recrmntDFA"
+        },
+        "r4ss/SSutils": {
+            "createdAt": "2018-06-12T21:21:15Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "SSutils",
+            "nameWithOwner": "r4ss/SSutils",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6178431?v=4",
+                "login": "r4ss"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/r4ss/SSutils"
+        },
+        "r4ss/old_r4ss_files": {
+            "createdAt": "2018-01-02T19:34:29Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "obsolete or infrequently used function removed from the r4ss package",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "old_r4ss_files",
+            "nameWithOwner": "r4ss/old_r4ss_files",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6178431?v=4",
+                "login": "r4ss"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/r4ss/old_r4ss_files"
+        },
+        "r4ss/r4ss": {
+            "createdAt": "2014-05-16T00:51:48Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "files for r4ss package",
+            "forks": {
+                "totalCount": 30
+            },
+            "homepageUrl": "https://r4ss.github.io/r4ss/",
+            "issues_Closed": {
+                "totalCount": 318
+            },
+            "issues_Open": {
+                "totalCount": 157
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 31
+            },
+            "name": "r4ss",
+            "nameWithOwner": "r4ss/r4ss",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6178431?v=4",
+                "login": "r4ss"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 14
+            },
+            "pullRequests_Merged": {
+                "totalCount": 313
+            },
+            "pullRequests_Open": {
+                "totalCount": 5
+            },
+            "repositoryTopics": {
+                "totalCount": 1
+            },
+            "stargazers": {
+                "totalCount": 35
+            },
+            "url": "https://github.com/r4ss/r4ss"
+        },
+        "r4ss/testing": {
+            "createdAt": "2014-07-16T21:44:36Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Stuff that isn't ready for r4ss package, but available on the web anyway",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "testing",
+            "nameWithOwner": "r4ss/testing",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6178431?v=4",
+                "login": "r4ss"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/r4ss/testing"
+        },
+        "ss3sim/Empirical": {
+            "createdAt": "2014-07-11T17:44:20Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Files for creating hake OM in ss3sim and investigating empricial wt-at-age in assessment",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "Empirical",
+            "nameWithOwner": "ss3sim/Empirical",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Scheme"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/Empirical"
+        },
+        "ss3sim/binning": {
+            "createdAt": "2014-07-11T21:06:08Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Code for paper investigating the optimal way to bin composition data in stock assessments.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "binning",
+            "nameWithOwner": "ss3sim/binning",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 2
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/ss3sim/binning"
+        },
+        "ss3sim/compsampling": {
+            "createdAt": "2017-07-27T19:18:27Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Sampling of composition data in an age-structured stock assessment model",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "compsampling",
+            "nameWithOwner": "ss3sim/compsampling",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/compsampling"
+        },
+        "ss3sim/estgrowth": {
+            "createdAt": "2014-10-02T19:28:13Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Simulations with ss3sim to guide users when it is best to estimate growth within SS compared to using external estimates.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "estgrowth",
+            "nameWithOwner": "ss3sim/estgrowth",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/estgrowth"
+        },
+        "ss3sim/procdata": {
+            "createdAt": "2016-04-27T18:16:47Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Code to investigate interaction of process error and data weighting ",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "procdata",
+            "nameWithOwner": "ss3sim/procdata",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/procdata"
+        },
+        "ss3sim/ss3models": {
+            "createdAt": "2014-10-26T00:55:48Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "SS3 model setups for use with ss3sim",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 16
+            },
+            "issues_Open": {
+                "totalCount": 3
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 9
+            },
+            "name": "ss3models",
+            "nameWithOwner": "ss3sim/ss3models",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 7
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/ss3sim/ss3models"
+        },
+        "ss3sim/ss3sim": {
+            "createdAt": "2013-04-04T20:59:13Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "An R package for stock-assessment simulation with Stock Synthesis",
+            "forks": {
+                "totalCount": 22
+            },
+            "homepageUrl": "https://ss3sim.github.io/ss3sim/",
+            "issues_Closed": {
+                "totalCount": 243
+            },
+            "issues_Open": {
+                "totalCount": 39
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 17
+            },
+            "name": "ss3sim",
+            "nameWithOwner": "ss3sim/ss3sim",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 15
+            },
+            "pullRequests_Merged": {
+                "totalCount": 104
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 5
+            },
+            "stargazers": {
+                "totalCount": 39
+            },
+            "url": "https://github.com/ss3sim/ss3sim"
+        },
+        "ss3sim/ss3sim_andersonetal": {
+            "createdAt": "2021-03-31T22:07:06Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Anderson et al. (2014) - a description of the ss3sim R package",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "ss3sim_andersonetal",
+            "nameWithOwner": "ss3sim/ss3sim_andersonetal",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "PostScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/ss3sim_andersonetal"
+        },
+        "ss3sim/ss3sim_nin": {
+            "createdAt": "2020-10-22T15:37:13Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Input sample size simulations",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "ss3sim_nin",
+            "nameWithOwner": "ss3sim/ss3sim_nin",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/ss3sim/ss3sim_nin"
+        },
+        "ss3sim/workshop": {
+            "createdAt": "2015-10-14T01:51:55Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A workshop demonstration of the package",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "workshop",
+            "nameWithOwner": "ss3sim/workshop",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6423106?v=4",
+                "login": "ss3sim"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/ss3sim/workshop"
+        }
+    }
+}
