@@ -10,3 +10,4 @@ env
 .venv
 .Rproj.user
 nmfs-repos-visual-explorer.Rproj
+.Rhistory
