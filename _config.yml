@@ -3,13 +3,11 @@ name: "nmfs-github-visual-explorer"
 author: "Eli Holmes edited templated by Justin Gosses"
 #### title is used as the title attribute in HTML pages.
 title: "nmfs-github-visual-explorer"
-description: "This site shows all the GitHub repositories extracted from a given awesome list, as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between code projects!"
+description: "This site shows all the GitHub repositories extracted from a given json file. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between code projects!"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 ##### A shortname for the main organization if there is one.
 shortname: "nmfs-github"
 
-# url: "https://softwareunderground.github.io/llnl.github.io/"
-# repo_url: "https://github.com/softwareunderground/llnl.github.io"
 #### This is the repository name and needs to be populated if deploying to a github pages page, which is the defaults.
 baseurl: "/nmfs-repos-visual-explorer"
 
@@ -30,10 +28,6 @@ wipe_existing_content_from_input_lists_json: True
 #### to as the default example of waht an awesome list is.
 exclude_these_usernames:
   - "sindresorhus"
-
-#### The orginal repository from LLNL used piwik to track user traffic. We're turning that off here.
-# LLNL Piwik Analytics https://analytics.llnl.gov
-# piwik_id: 250
 
 #### The orginal repository from LLNL also used Google Analytics to track user traffic. We're turning that off here.
 # Google Analytics ID
