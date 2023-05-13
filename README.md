@@ -1,13 +1,8 @@
 
 ## NMFS GitHub Ecosystem Visual Explorer
-WRITE YOUR PURPOSE OF THE REPOSITORY HERE
 
-- Repository Name: 
-- Repository Authors: 
-- Purpose:
-- Link To Awesome List Parsed In This Code Project:
-- Link to Live Website: <b><a href="">none yet</a></b>
-- Last Ran in Full On: YYYY-MM-DD
+- Link to Live Website: [NMFS GitHub Ecosystem](https://nmfs-opensci.github.io/nmfs-repos-visual-explorer/)
+- Last Ran in Full On: 2023-04-28
 
 ## Key Pages 
 ##### Front Page
@@ -36,9 +31,17 @@ Visualization of the most popular repositories including:
 - activity over time of the top 10 most popular repositories
 - licenses of the most popular repositories
 
-## Additional Information About The awesome-list-visual-explorer-template Template
+## Need to updatet the visualizer with new data
 
-- https://JustinGOSSES.github.io/awesome-list-visual-explorer-template/
+Go to the README in `_explore/scripts` and follow the instructions.
+
+## Want your own GitHub repo visualizer? 
+
+Go here and follow the instructions:
+
+https://JustinGOSSES.github.io/awesome-list-visual-explorer-template/
+
+<!-- Kept this for reference
 
 <i>What is it based off of?</i>
 This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for visualizing Software Underground's Awesome-Open-Geoscience list.
@@ -46,8 +49,8 @@ This site was created by taking a fork of the <a href="https://github.com/LLNL/l
 The code is still largely that of the original  <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a>.
 
 
-## Overview of How awesome-list-visual-explorer-template Template Works
-At a very high level, there a variety of bash and Python scripts that grab github repository URLs from an Awesome List README location you supply as configuration, get details about those repositories from the GitHub API, and then rebuild the webpages with that information and information from a configuration file. 
+## Overview of how the visual-explorer-template Template Works
+At a very high level, there a variety of bash and Python scripts that grab github repository URLs from a json file in the repo, get details about those repositories from the GitHub API, and then rebuild the webpages with that information and information from a configuration file. 
 
 ## Overview of the nmfs-opensci changes
 
@@ -138,4 +141,7 @@ The gems in your sourcefile get updated frequently. It is a good idea to occasio
 Sometimes there can be dependency conflicts if your local version of Ruby is different from this repo or github pages deployment settings. You can find the version number of each of GitHub Page's current dependency's [here](https://pages.github.com/versions/). You can often avoid dependency issues if you use the same versions, including for Ruby. 
 
 As an example, the default version of Ruby used to deploy GitHub Pages on github.com as of 2021-04-08 was Ruby	2.7.1. If you tried running Ruby version 3.0.0 locally on macOS, you'll need to do some extra steps to correctly install the dependencies for this repository. You'd need to run `bundle add webrick` as it is no longer a prepackaged dependency with Ruby in 3.0.0. You may also need to run `gem install eventmachine -- --with-openssl-dir=/usr/local/opt/openssl@1.1` as MacOS >10.14 doesn't use openssl from the same path as is still assumed to be in by eventmachine.
+
+-->
+
 
