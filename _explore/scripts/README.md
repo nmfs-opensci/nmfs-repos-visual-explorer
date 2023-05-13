@@ -4,7 +4,7 @@ These are a set of scripts for updating the local github data in this repository
 
 ## Overview of the nmfs-opensci changes
 
-- Made a script _explore/scripts/import_code_json.py to get the json from data exported from calles to GithHub API and put it in the _data folder
+- Made a script _explore/scripts/import_code_json.py to get the json from data exported from calls to GithHub API and put it in the _data folder
 - Changed BUILD.sh to use that
 - edited _config.yml
 - created code.json in nmfs-opensci/NMFS_repos
@@ -33,6 +33,11 @@ Running this will install everything in your Gemfile (including Jekyll). Note, p
 ```
 echo 'export GITHUB_API_TOKEN=xyz' >> ~/.zshenv
 ```
+
+## Create or update code.json
+
+This is info on all the NMFS GitHub orgs. This is created in nmfs-opensci/NMFS_repos. Search for `code.json` Remake that file and save copy in `_explore` folder in this repo.
+
 
 ## Now start building!
 
