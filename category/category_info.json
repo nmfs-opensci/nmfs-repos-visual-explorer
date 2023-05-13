@@ -1,18 +1,19 @@
 {
     "data": {
-        "R packages": {
-            "title": "R packages",
+        "Awesome": {
+            "title": "Awesome",
             "icon": {
                 "path": "/nmfs-repos-visual-explorer/assets/images/performance.svg",
-                "alt": "having to do with the R packages"
+                "alt": "having to do with the Awesome Lists"
             },
             "description" : {
-                "short": "Repos having to do with the R packages",
+                "short": "Repos having to do with the Awesome Lists",
                 "long": ""
             },
             "topics": [
-                "R package",
-                "r-package"
+                "Awesome",
+                "Awesome-list",
+                "Awesome-Lists"
             ]
         },
         "DATA MANAGEMENT & VIZ": {
@@ -29,18 +30,24 @@
                 "data-management"
             ]
         },
-        "Stock Synthesis": {
-            "title": "Stock Synthesis",
+        "WEB SITES & APPLICATIONS": {
+            "title": "WEB SITES & APPLICATIONS",
             "icon": {
                 "path": "/nmfs-repos-visual-explorer/assets/images/application.svg",
-                "alt": "Stock Synthesis"
+                "alt": "WEB SITES & APPLICATIONS"
             },
             "description": {
-                "short": "Stock Synthesis related repos",
+                "short": "Repositories that are WEB SITES & APPLICATIONS",
                 "long": ""
             },
             "topics": [
-                "stock-synthesis"
+                "application",
+                "applications",
+                "website",
+                "websites",
+                "web",
+                "server",
+                "front-end"
             ]
         },
         "Visualization": {
@@ -62,18 +69,22 @@
                 "holoviz"
             ]
         },
-        "Survey": {
-            "title": "Survey",
+        "SYSTEM SOFTWARE": {
+            "title": "SYSTEM SOFTWARE",
             "icon": {
                 "path": "/nmfs-repos-visual-explorer/assets/images/system-software.svg",
-                "alt": "Survey"
+                "alt": "Systems Software"
             },
             "description": {
-                "short": "Survey ",
+                "short": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
                 "long": ""
             },
             "topics": [
-                "survey"
+                "system-software",
+                "system",
+                "backend",
+                "server",
+                "serve"
             ]
         },
         "DATA": {
