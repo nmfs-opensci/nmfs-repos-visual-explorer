@@ -8,3 +8,5 @@ _explore/LAST_MASTER_UPDATE.log
 venv
 env
 .venv
+.Rproj.user
+nmfs-repos-visual-explorer.Rproj
