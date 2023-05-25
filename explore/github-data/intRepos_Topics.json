@@ -132,6 +132,12 @@
                 "totalCount": 0
             }
         },
+        "NEFSC/READ-EDAB-ecopull": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "NEFSC/READ-PDB-AstroCalc4R": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1279,6 +1285,12 @@
                 "totalCount": 0
             }
         },
+        "PIFSCstockassessments/Uku_EFH": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "PIFSCstockassessments/WCNPOSWO-2023": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1664,6 +1676,12 @@
                 "totalCount": 0
             }
         },
+        "TIDE-NWFSC/DEIAJ-Resources": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "TIDE-NWFSC/Hiring_Onboarding": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1832,6 +1850,12 @@
                 "totalCount": 0
             }
         },
+        "afsc-assessments/goa_nork": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "afsc-assessments/goa_pcod": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1956,8 +1980,16 @@
         },
         "afsc-gap-products/RACE_Survey_App": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/documentation",
+                        "topic": {
+                            "name": "documentation"
+                        },
+                        "url": "https://github.com/topics/documentation"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "afsc-gap-products/StationAllocationAIGOA": {
@@ -2090,9 +2122,16 @@
                             "name": "environmental-data"
                         },
                         "url": "https://github.com/topics/environmental-data"
+                    },
+                    {
+                        "resourcePath": "/topics/climate",
+                        "topic": {
+                            "name": "climate"
+                        },
+                        "url": "https://github.com/topics/climate"
                     }
                 ],
-                "totalCount": 2
+                "totalCount": 3
             }
         },
         "afsc-gap-products/data-requests": {
@@ -2104,9 +2143,51 @@
                             "name": "survey-data"
                         },
                         "url": "https://github.com/topics/survey-data"
+                    },
+                    {
+                        "resourcePath": "/topics/survey",
+                        "topic": {
+                            "name": "survey"
+                        },
+                        "url": "https://github.com/topics/survey"
+                    },
+                    {
+                        "resourcePath": "/topics/alaska",
+                        "topic": {
+                            "name": "alaska"
+                        },
+                        "url": "https://github.com/topics/alaska"
+                    },
+                    {
+                        "resourcePath": "/topics/data-management",
+                        "topic": {
+                            "name": "data-management"
+                        },
+                        "url": "https://github.com/topics/data-management"
+                    },
+                    {
+                        "resourcePath": "/topics/noaa-fisheries",
+                        "topic": {
+                            "name": "noaa-fisheries"
+                        },
+                        "url": "https://github.com/topics/noaa-fisheries"
+                    },
+                    {
+                        "resourcePath": "/topics/requests",
+                        "topic": {
+                            "name": "requests"
+                        },
+                        "url": "https://github.com/topics/requests"
+                    },
+                    {
+                        "resourcePath": "/topics/groundfish",
+                        "topic": {
+                            "name": "groundfish"
+                        },
+                        "url": "https://github.com/topics/groundfish"
                     }
                 ],
-                "totalCount": 1
+                "totalCount": 7
             }
         },
         "afsc-gap-products/gap_bs_data_report": {
@@ -2139,15 +2220,51 @@
                             "name": "bering-sea"
                         },
                         "url": "https://github.com/topics/bering-sea"
+                    },
+                    {
+                        "resourcePath": "/topics/noaa-fisheries",
+                        "topic": {
+                            "name": "noaa-fisheries"
+                        },
+                        "url": "https://github.com/topics/noaa-fisheries"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "afsc-gap-products/gap_products": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/open-data",
+                        "topic": {
+                            "name": "open-data"
+                        },
+                        "url": "https://github.com/topics/open-data"
+                    },
+                    {
+                        "resourcePath": "/topics/noaa-fisheries",
+                        "topic": {
+                            "name": "noaa-fisheries"
+                        },
+                        "url": "https://github.com/topics/noaa-fisheries"
+                    },
+                    {
+                        "resourcePath": "/topics/index-production",
+                        "topic": {
+                            "name": "index-production"
+                        },
+                        "url": "https://github.com/topics/index-production"
+                    },
+                    {
+                        "resourcePath": "/topics/groundfish",
+                        "topic": {
+                            "name": "groundfish"
+                        },
+                        "url": "https://github.com/topics/groundfish"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "afsc-gap-products/gap_public_data": {
@@ -2201,9 +2318,16 @@
                             "name": "noaa-fisheries"
                         },
                         "url": "https://github.com/topics/noaa-fisheries"
+                    },
+                    {
+                        "resourcePath": "/topics/open-data",
+                        "topic": {
+                            "name": "open-data"
+                        },
+                        "url": "https://github.com/topics/open-data"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 8
             }
         },
         "afsc-gap-products/gap_special_projects": {
@@ -2277,8 +2401,23 @@
         },
         "afsc-gap-products/metadata": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/documentation",
+                        "topic": {
+                            "name": "documentation"
+                        },
+                        "url": "https://github.com/topics/documentation"
+                    },
+                    {
+                        "resourcePath": "/topics/open-data",
+                        "topic": {
+                            "name": "open-data"
+                        },
+                        "url": "https://github.com/topics/open-data"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "afsc-gap-products/navmaps": {
@@ -2341,9 +2480,37 @@
                             "name": "groundfish"
                         },
                         "url": "https://github.com/topics/groundfish"
+                    },
+                    {
+                        "resourcePath": "/topics/climate",
+                        "topic": {
+                            "name": "climate"
+                        },
+                        "url": "https://github.com/topics/climate"
+                    },
+                    {
+                        "resourcePath": "/topics/noaa-fisheries",
+                        "topic": {
+                            "name": "noaa-fisheries"
+                        },
+                        "url": "https://github.com/topics/noaa-fisheries"
+                    },
+                    {
+                        "resourcePath": "/topics/data-visualization",
+                        "topic": {
+                            "name": "data-visualization"
+                        },
+                        "url": "https://github.com/topics/data-visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/visualization",
+                        "topic": {
+                            "name": "visualization"
+                        },
+                        "url": "https://github.com/topics/visualization"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 8
             }
         },
         "afsc-gap-products/trawllight": {
@@ -2359,6 +2526,344 @@
             }
         },
         "alaska-groundfish-efh/product-requests": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/MARSS": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/cran",
+                        "topic": {
+                            "name": "cran"
+                        },
+                        "url": "https://github.com/topics/cran"
+                    },
+                    {
+                        "resourcePath": "/topics/multivariate-timeseries",
+                        "topic": {
+                            "name": "multivariate-timeseries"
+                        },
+                        "url": "https://github.com/topics/multivariate-timeseries"
+                    },
+                    {
+                        "resourcePath": "/topics/r-package",
+                        "topic": {
+                            "name": "r-package"
+                        },
+                        "url": "https://github.com/topics/r-package"
+                    },
+                    {
+                        "resourcePath": "/topics/state-space-models",
+                        "topic": {
+                            "name": "state-space-models"
+                        },
+                        "url": "https://github.com/topics/state-space-models"
+                    },
+                    {
+                        "resourcePath": "/topics/statistics",
+                        "topic": {
+                            "name": "statistics"
+                        },
+                        "url": "https://github.com/topics/statistics"
+                    },
+                    {
+                        "resourcePath": "/topics/time-series",
+                        "topic": {
+                            "name": "time-series"
+                        },
+                        "url": "https://github.com/topics/time-series"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "atsa-es/MARSS-User-Guide": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/MARSS-pkgdown": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/MARSS-wiki": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/MARSS2": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/time-series",
+                        "topic": {
+                            "name": "time-series"
+                        },
+                        "url": "https://github.com/topics/time-series"
+                    },
+                    {
+                        "resourcePath": "/topics/statistics",
+                        "topic": {
+                            "name": "statistics"
+                        },
+                        "url": "https://github.com/topics/statistics"
+                    },
+                    {
+                        "resourcePath": "/topics/ecological-modelling",
+                        "topic": {
+                            "name": "ecological-modelling"
+                        },
+                        "url": "https://github.com/topics/ecological-modelling"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
+        "atsa-es/atsa-es.github.io": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa-es.r-universe.dev": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa-labs": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa2017": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa2019": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsa2021": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsalibrary": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/atsar": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/bayesian",
+                        "topic": {
+                            "name": "bayesian"
+                        },
+                        "url": "https://github.com/topics/bayesian"
+                    },
+                    {
+                        "resourcePath": "/topics/r-package",
+                        "topic": {
+                            "name": "r-package"
+                        },
+                        "url": "https://github.com/topics/r-package"
+                    },
+                    {
+                        "resourcePath": "/topics/stan",
+                        "topic": {
+                            "name": "stan"
+                        },
+                        "url": "https://github.com/topics/stan"
+                    },
+                    {
+                        "resourcePath": "/topics/time-series",
+                        "topic": {
+                            "name": "time-series"
+                        },
+                        "url": "https://github.com/topics/time-series"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "atsa-es/binder-environment": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/devcontainers-rstudio": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/fish550-2023": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/fish550-devcontainer": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/marssTMB": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/tmb",
+                        "topic": {
+                            "name": "tmb"
+                        },
+                        "url": "https://github.com/topics/tmb"
+                    },
+                    {
+                        "resourcePath": "/topics/marss",
+                        "topic": {
+                            "name": "marss"
+                        },
+                        "url": "https://github.com/topics/marss"
+                    },
+                    {
+                        "resourcePath": "/topics/multivariate-timeseries",
+                        "topic": {
+                            "name": "multivariate-timeseries"
+                        },
+                        "url": "https://github.com/topics/multivariate-timeseries"
+                    },
+                    {
+                        "resourcePath": "/topics/state-space-model",
+                        "topic": {
+                            "name": "state-space-model"
+                        },
+                        "url": "https://github.com/topics/state-space-model"
+                    },
+                    {
+                        "resourcePath": "/topics/time-series",
+                        "topic": {
+                            "name": "time-series"
+                        },
+                        "url": "https://github.com/topics/time-series"
+                    }
+                ],
+                "totalCount": 5
+            }
+        },
+        "atsa-es/mvdlm": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/dlm",
+                        "topic": {
+                            "name": "dlm"
+                        },
+                        "url": "https://github.com/topics/dlm"
+                    },
+                    {
+                        "resourcePath": "/topics/r-package",
+                        "topic": {
+                            "name": "r-package"
+                        },
+                        "url": "https://github.com/topics/r-package"
+                    },
+                    {
+                        "resourcePath": "/topics/stan",
+                        "topic": {
+                            "name": "stan"
+                        },
+                        "url": "https://github.com/topics/stan"
+                    },
+                    {
+                        "resourcePath": "/topics/time-series",
+                        "topic": {
+                            "name": "time-series"
+                        },
+                        "url": "https://github.com/topics/time-series"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "atsa-es/org-level-todo": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/pdfsizeopt-readme": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/safs-timeseries": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "atsa-es/tvvarss": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/multivariate-models",
+                        "topic": {
+                            "name": "multivariate-models"
+                        },
+                        "url": "https://github.com/topics/multivariate-models"
+                    },
+                    {
+                        "resourcePath": "/topics/state-space",
+                        "topic": {
+                            "name": "state-space"
+                        },
+                        "url": "https://github.com/topics/state-space"
+                    },
+                    {
+                        "resourcePath": "/topics/bayesian",
+                        "topic": {
+                            "name": "bayesian"
+                        },
+                        "url": "https://github.com/topics/bayesian"
+                    },
+                    {
+                        "resourcePath": "/topics/r-package",
+                        "topic": {
+                            "name": "r-package"
+                        },
+                        "url": "https://github.com/topics/r-package"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "atsa-es/varlasso": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2860,6 +3365,12 @@
             }
         },
         "nmfs-fish-tools/journals": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "nmfs-fish-tools/minimizR": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0

@@ -664,7 +664,7 @@
             },
             "description": "Results from NEFSC Shiny Group R Survey June 2021",
             "forks": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "homepageUrl": "https://nefsc.github.io/NEFSC-ShinySurveyResults/survey_presentation#1",
             "issues_Closed": {
@@ -880,7 +880,7 @@
             },
             "description": "https://nefsc.github.io/NEFSC-shiny-book/",
             "forks": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "homepageUrl": "https://nefsc.github.io/NEFSC-shiny-book/",
             "issues_Closed": {
@@ -1207,6 +1207,61 @@
                 "totalCount": 0
             },
             "url": "https://github.com/NEFSC/READ-EDAB-NEespShiny"
+        },
+        "NEFSC/READ-EDAB-ecopull": {
+            "createdAt": "2021-09-03T15:15:06Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 9
+            },
+            "name": "READ-EDAB-ecopull",
+            "nameWithOwner": "NEFSC/READ-EDAB-ecopull",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/68607162?v=4",
+                "login": "NEFSC"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/NEFSC/READ-EDAB-ecopull"
         },
         "NEFSC/READ-PDB-AstroCalc4R": {
             "createdAt": "2022-10-14T20:27:19Z",
@@ -2283,19 +2338,19 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 15
+                "totalCount": 23
             },
             "issues_Open": {
-                "totalCount": 8
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 4
             },
             "licenseInfo": {
-                "name": "MIT License",
+                "name": "Creative Commons Zero v1.0 Universal",
                 "nickname": null,
-                "spdxId": "MIT",
-                "url": "http://choosealicense.com/licenses/mit/"
+                "spdxId": "CC0-1.0",
+                "url": "http://choosealicense.com/licenses/cc0-1.0/"
             },
             "mentionableUsers": {
                 "totalCount": 10
@@ -2878,7 +2933,7 @@
             },
             "description": null,
             "forks": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -2922,7 +2977,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/NEFSC/READ-SSB-Lee-QuotaPriceReplication"
         },
@@ -5284,7 +5339,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 19
+                "totalCount": 20
             },
             "url": "https://github.com/NOAA-EDAB/Rpath"
         },
@@ -5720,7 +5775,7 @@
             },
             "description": "A data package for reporting on Northeast Continental Shelf ecosystem status and trends.",
             "forks": {
-                "totalCount": 10
+                "totalCount": 11
             },
             "homepageUrl": "https://noaa-edab.github.io/ecodata/landing_page",
             "issues_Closed": {
@@ -5764,7 +5819,7 @@
                 "totalCount": 2
             },
             "stargazers": {
-                "totalCount": 21
+                "totalCount": 22
             },
             "url": "https://github.com/NOAA-EDAB/ecodata"
         },
@@ -6095,7 +6150,7 @@
                 "totalCount": 8
             },
             "languages": {
-                "totalCount": 2
+                "totalCount": 4
             },
             "licenseInfo": {
                 "name": "Other",
@@ -6257,7 +6312,7 @@
                 "totalCount": 6
             },
             "issues_Open": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "languages": {
                 "totalCount": 5
@@ -6392,10 +6447,10 @@
                 "name": "TypeScript"
             },
             "pullRequests_Closed": {
-                "totalCount": 28
+                "totalCount": 29
             },
             "pullRequests_Merged": {
-                "totalCount": 154
+                "totalCount": 163
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -6415,7 +6470,7 @@
             },
             "description": "https://noaa-edab.github.io/oisst/",
             "forks": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "homepageUrl": "https://noaa-edab.github.io/oisst/",
             "issues_Closed": {
@@ -6953,7 +7008,7 @@
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 1
@@ -7112,10 +7167,10 @@
             },
             "homepageUrl": "https://noaa-fims.github.io/",
             "issues_Closed": {
-                "totalCount": 97
+                "totalCount": 101
             },
             "issues_Open": {
-                "totalCount": 45
+                "totalCount": 47
             },
             "languages": {
                 "totalCount": 3
@@ -7140,10 +7195,10 @@
                 "name": "C++"
             },
             "pullRequests_Closed": {
-                "totalCount": 25
+                "totalCount": 28
             },
             "pullRequests_Merged": {
-                "totalCount": 179
+                "totalCount": 182
             },
             "pullRequests_Open": {
                 "totalCount": 1
@@ -7152,7 +7207,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "url": "https://github.com/NOAA-FIMS/FIMS"
         },
@@ -8003,7 +8058,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "name": "Krill-pilot-2021",
             "nameWithOwner": "NWFSC-OA-lab/Krill-pilot-2021",
@@ -8041,10 +8096,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 17
+                "totalCount": 23
             },
             "issues_Open": {
-                "totalCount": 15
+                "totalCount": 11
             },
             "languages": {
                 "totalCount": 1
@@ -8091,10 +8146,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 20
+                "totalCount": 21
             },
             "issues_Open": {
-                "totalCount": 11
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 1
@@ -8244,10 +8299,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 44
+                "totalCount": 46
             },
             "issues_Open": {
-                "totalCount": 12
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 0
@@ -8312,7 +8367,7 @@
             },
             "parent": null,
             "primaryLanguage": {
-                "name": "Kotlin"
+                "name": "C++"
             },
             "pullRequests_Closed": {
                 "totalCount": 0
@@ -8400,7 +8455,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "name": "krill_respirometry_2019",
             "nameWithOwner": "NWFSC-OA-lab/krill_respirometry_2019",
@@ -8448,7 +8503,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "name": "krill_size_2019",
             "nameWithOwner": "NWFSC-OA-lab/krill_size_2019",
@@ -8498,7 +8553,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "name": "krill_survival_2019",
             "nameWithOwner": "NWFSC-OA-lab/krill_survival_2019",
@@ -8538,17 +8593,17 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 19
+                "totalCount": 20
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 3
             },
             "languages": {
                 "totalCount": 1
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 5
+                "totalCount": 7
             },
             "name": "krl_lrv_ph_temp_2021",
             "nameWithOwner": "NWFSC-OA-lab/krl_lrv_ph_temp_2021",
@@ -8949,7 +9004,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/PIFSC-NMFS-NOAA/PIFSC-Info"
         },
@@ -9004,7 +9059,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/PIFSCstockassessments/AGEPRO"
         },
@@ -9132,7 +9187,7 @@
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 2
@@ -9162,7 +9217,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -9334,6 +9389,56 @@
                 "totalCount": 0
             },
             "url": "https://github.com/PIFSCstockassessments/StepwiseLH"
+        },
+        "PIFSCstockassessments/Uku_EFH": {
+            "createdAt": "2023-05-10T02:29:36Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "CPUE and other analysis to support the uku essential fish habitat analyses",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "Uku_EFH",
+            "nameWithOwner": "PIFSCstockassessments/Uku_EFH",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/31554034?v=4",
+                "login": "PIFSCstockassessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/PIFSCstockassessments/Uku_EFH"
         },
         "PIFSCstockassessments/WCNPOSWO-2023": {
             "createdAt": "2022-10-18T00:26:46Z",
@@ -9565,7 +9670,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -9619,7 +9724,7 @@
                 "totalCount": 30
             },
             "issues_Open": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "languages": {
                 "totalCount": 4
@@ -9645,7 +9750,7 @@
                 "totalCount": 29
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -11705,13 +11810,13 @@
                 "name": "R"
             },
             "pullRequests_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "pullRequests_Merged": {
                 "totalCount": 3
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -12100,6 +12205,54 @@
             },
             "url": "https://github.com/SWFSC/SWFSC-Template"
         },
+        "TIDE-NWFSC/DEIAJ-Resources": {
+            "createdAt": "2023-05-02T20:02:51Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "This is a repository to house links and materials as DEIAJ resources for the NWFSC community.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "DEIAJ-Resources",
+            "nameWithOwner": "TIDE-NWFSC/DEIAJ-Resources",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/118391087?v=4",
+                "login": "TIDE-NWFSC"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/TIDE-NWFSC/DEIAJ-Resources"
+        },
         "TIDE-NWFSC/Hiring_Onboarding": {
             "createdAt": "2022-11-22T18:54:51Z",
             "defaultBranchRef": {
@@ -12192,7 +12345,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/TIDE-NWFSC/Psychological-Safety"
         },
@@ -13242,7 +13395,7 @@
                 "totalCount": 6
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 7
             },
             "languages": {
                 "totalCount": 1
@@ -13270,7 +13423,7 @@
                 "totalCount": 3
             },
             "pullRequests_Merged": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -13545,6 +13698,56 @@
                 "totalCount": 0
             },
             "url": "https://github.com/afsc-assessments/goa_dusky"
+        },
+        "afsc-assessments/goa_nork": {
+            "createdAt": "2023-05-16T15:07:19Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 8
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "goa_nork",
+            "nameWithOwner": "afsc-assessments/goa_nork",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/58047671?v=4",
+                "login": "afsc-assessments"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/afsc-assessments/goa_nork"
         },
         "afsc-assessments/goa_pcod": {
             "createdAt": "2022-11-01T17:32:49Z",
@@ -14112,7 +14315,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -14266,7 +14469,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "stargazers": {
                 "totalCount": 2
@@ -14481,7 +14684,7 @@
                 "totalCount": 6
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "languages": {
                 "totalCount": 1
@@ -14533,10 +14736,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 6
+                "totalCount": 9
             },
             "issues_Open": {
-                "totalCount": 6
+                "totalCount": 3
             },
             "languages": {
                 "totalCount": 2
@@ -14564,7 +14767,7 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -14678,7 +14881,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "url": "https://github.com/afsc-gap-products/citations"
         },
@@ -14724,13 +14927,13 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 22
+                "totalCount": 23
             },
             "pullRequests_Open": {
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "stargazers": {
                 "totalCount": 6
@@ -14748,10 +14951,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 57
+                "totalCount": 58
             },
             "issues_Open": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "languages": {
                 "totalCount": 0
@@ -14778,7 +14981,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 1
+                "totalCount": 7
             },
             "stargazers": {
                 "totalCount": 0
@@ -14828,7 +15031,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "stargazers": {
                 "totalCount": 8
@@ -14852,7 +15055,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 1
+                "totalCount": 4
             },
             "licenseInfo": {
                 "name": "GNU General Public License v3.0",
@@ -14883,7 +15086,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 0
+                "totalCount": 4
             },
             "stargazers": {
                 "totalCount": 0
@@ -14911,7 +15114,7 @@
             },
             "licenseInfo": null,
             "mentionableUsers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "name": "gap_public_data",
             "nameWithOwner": "afsc-gap-products/gap_public_data",
@@ -14924,16 +15127,16 @@
                 "name": "R"
             },
             "pullRequests_Closed": {
-                "totalCount": 0
-            },
-            "pullRequests_Merged": {
-                "totalCount": 8
-            },
-            "pullRequests_Open": {
                 "totalCount": 1
             },
+            "pullRequests_Merged": {
+                "totalCount": 9
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
             "repositoryTopics": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "stargazers": {
                 "totalCount": 6
@@ -15055,16 +15258,16 @@
             "defaultBranchRef": {
                 "name": "master"
             },
-            "description": "Replicate design-based indices based on Wakabayashi et al. equations and SQL scripts. Resulting values should be comparable with tables in the GOA and AI schemas.",
+            "description": "Calculation of Design-Based Indices of Abundance and Composition for AFSC GAP Bottom Trawl Surveys",
             "forks": {
                 "totalCount": 1
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 9
+                "totalCount": 14
             },
             "issues_Open": {
-                "totalCount": 9
+                "totalCount": 6
             },
             "languages": {
                 "totalCount": 3
@@ -15084,10 +15287,10 @@
                 "name": "HTML"
             },
             "pullRequests_Closed": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -15196,7 +15399,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 0
+                "totalCount": 2
             },
             "stargazers": {
                 "totalCount": 0
@@ -15477,7 +15680,7 @@
                 "totalCount": 3
             },
             "issues_Open": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "languages": {
                 "totalCount": 1
@@ -15511,7 +15714,7 @@
                 "totalCount": 0
             },
             "repositoryTopics": {
-                "totalCount": 4
+                "totalCount": 8
             },
             "stargazers": {
                 "totalCount": 5
@@ -15672,6 +15875,1323 @@
                 "totalCount": 1
             },
             "url": "https://github.com/alaska-groundfish-efh/product-requests"
+        },
+        "atsa-es/MARSS": {
+            "createdAt": "2017-03-28T20:23:53Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Multivariate Autoregressive State-Space Modeling with R",
+            "forks": {
+                "totalCount": 25
+            },
+            "homepageUrl": "https://atsa-es.github.io/MARSS/",
+            "issues_Closed": {
+                "totalCount": 120
+            },
+            "issues_Open": {
+                "totalCount": 30
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "MARSS",
+            "nameWithOwner": "atsa-es/MARSS",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 32
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 6
+            },
+            "stargazers": {
+                "totalCount": 43
+            },
+            "url": "https://github.com/atsa-es/MARSS"
+        },
+        "atsa-es/MARSS-User-Guide": {
+            "createdAt": "2023-05-14T13:51:27Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "The MARSS User Guide. https://cran.r-project.org/package=MARSS",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "Creative Commons Zero v1.0 Universal",
+                "nickname": null,
+                "spdxId": "CC0-1.0",
+                "url": "http://choosealicense.com/licenses/cc0-1.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "MARSS-User-Guide",
+            "nameWithOwner": "atsa-es/MARSS-User-Guide",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "TeX"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/MARSS-User-Guide"
+        },
+        "atsa-es/MARSS-pkgdown": {
+            "createdAt": "2023-03-16T20:27:15Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Multivariate Autoregressive State-Space Modeling with R",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://atsa-es.github.io/MARSS",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "MARSS-pkgdown",
+            "nameWithOwner": "atsa-es/MARSS-pkgdown",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": {
+                "name": "MARSS",
+                "nameWithOwner": "atsa-es/MARSS",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                    "login": "atsa-es"
+                }
+            },
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/MARSS-pkgdown"
+        },
+        "atsa-es/MARSS-wiki": {
+            "createdAt": "2018-03-16T00:52:45Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "MARSS-wiki",
+            "nameWithOwner": "atsa-es/MARSS-wiki",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "TeX"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/MARSS-wiki"
+        },
+        "atsa-es/MARSS2": {
+            "createdAt": "2021-12-15T03:38:12Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Multivariate Autoregressive State-Space Modeling with R",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://atsa-es.github.io/MARSS/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "MARSS2",
+            "nameWithOwner": "atsa-es/MARSS2",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/MARSS2"
+        },
+        "atsa-es/atsa": {
+            "createdAt": "2017-04-07T22:26:57Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Applied Time Series Analysis - course website repository. ",
+            "forks": {
+                "totalCount": 9
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsa/",
+            "issues_Closed": {
+                "totalCount": 5
+            },
+            "issues_Open": {
+                "totalCount": 5
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa",
+            "nameWithOwner": "atsa-es/atsa",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 2
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 3
+            },
+            "stargazers": {
+                "totalCount": 13
+            },
+            "url": "https://github.com/atsa-es/atsa"
+        },
+        "atsa-es/atsa-es.github.io": {
+            "createdAt": "2021-03-25T18:02:33Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Website repository for Applied Time-Series Analysis for Fisheries and Environmental Data",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "https://atsa-es.github.io",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa-es.github.io",
+            "nameWithOwner": "atsa-es/atsa-es.github.io",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "CSS"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/atsa-es/atsa-es.github.io"
+        },
+        "atsa-es/atsa-es.r-universe.dev": {
+            "createdAt": "2023-04-22T21:01:13Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "CRAN-like repository for the atsa-es packages. Binaries are available for Windows and MacOS",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://atsa-es.r-universe.dev/packages",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa-es.r-universe.dev",
+            "nameWithOwner": "atsa-es/atsa-es.r-universe.dev",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/atsa-es.r-universe.dev"
+        },
+        "atsa-es/atsa-labs": {
+            "createdAt": "2017-05-02T02:22:15Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Labs developed for Applied Fisheries Time-series Analysis course.  The link for the text is https://atsa-es.github.io/atsa-labs/",
+            "forks": {
+                "totalCount": 20
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 11
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "atsa-labs",
+            "nameWithOwner": "atsa-es/atsa-labs",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 2
+            },
+            "pullRequests_Merged": {
+                "totalCount": 4
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 20
+            },
+            "url": "https://github.com/atsa-es/atsa-labs"
+        },
+        "atsa-es/atsa2017": {
+            "createdAt": "2018-12-11T00:26:55Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Fish 507 Applied Time Series Analysis 2017",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsa2017/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa2017",
+            "nameWithOwner": "atsa-es/atsa2017",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 3
+            },
+            "url": "https://github.com/atsa-es/atsa2017"
+        },
+        "atsa-es/atsa2019": {
+            "createdAt": "2020-12-18T15:43:09Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Applied Time Series Analysis - 2019 course website repository.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsa2019/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa2019",
+            "nameWithOwner": "atsa-es/atsa2019",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/atsa2019"
+        },
+        "atsa-es/atsa2021": {
+            "createdAt": "2021-03-24T22:45:57Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Applied Time Series Analysis - 2021 course website repository.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsa2021/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsa2021",
+            "nameWithOwner": "atsa-es/atsa2021",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/atsa-es/atsa2021"
+        },
+        "atsa-es/atsalibrary": {
+            "createdAt": "2019-03-27T20:17:57Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Data, scripts and packages for ATSA course and book. Students should install this before running examples in the lab book.",
+            "forks": {
+                "totalCount": 6
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsalibrary/",
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "atsalibrary",
+            "nameWithOwner": "atsa-es/atsalibrary",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/atsa-es/atsalibrary"
+        },
+        "atsa-es/atsar": {
+            "createdAt": "2017-03-07T19:09:50Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Applied time series analysis in R with Stan.  Allows fast Bayesian fitting of multivariate time-series models.",
+            "forks": {
+                "totalCount": 16
+            },
+            "homepageUrl": "https://atsa-es.github.io/atsar/",
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "atsar",
+            "nameWithOwner": "atsa-es/atsar",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 43
+            },
+            "url": "https://github.com/atsa-es/atsar"
+        },
+        "atsa-es/binder-environment": {
+            "createdAt": "2021-12-07T22:14:35Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "A binder environment for ATSA material. Make sure to read the wiki (tab to left) to read about my pain points.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "binder-environment",
+            "nameWithOwner": "atsa-es/binder-environment",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/binder-environment"
+        },
+        "atsa-es/devcontainers-rstudio": {
+            "createdAt": "2023-03-17T19:39:06Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Zero-setup R workshops with GitHub Codespaces",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "devcontainers-rstudio",
+            "nameWithOwner": "atsa-es/devcontainers-rstudio",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": {
+                "name": "devcontainers-rstudio",
+                "nameWithOwner": "revodavid/devcontainers-rstudio",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/152948?u=1c0196b61585ba5d0027f0286235272a37898f75&v=4",
+                    "login": "revodavid"
+                }
+            },
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/devcontainers-rstudio"
+        },
+        "atsa-es/fish550-2023": {
+            "createdAt": "2023-03-06T22:22:06Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "GitHub Repo for FISH 550 2023",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "https://atsa-es.github.io/fish550-2023/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 16
+            },
+            "name": "fish550-2023",
+            "nameWithOwner": "atsa-es/fish550-2023",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/atsa-es/fish550-2023"
+        },
+        "atsa-es/fish550-devcontainer": {
+            "createdAt": "2023-03-18T00:20:55Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "A devcontainer for FISH 550",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "fish550-devcontainer",
+            "nameWithOwner": "atsa-es/fish550-devcontainer",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/atsa-es/fish550-devcontainer"
+        },
+        "atsa-es/marssTMB": {
+            "createdAt": "2023-04-28T19:33:26Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Companion package for MARSS that allows you to use TMB to fit MARSS models",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://atsa-es.github.io/marssTMB/",
+            "issues_Closed": {
+                "totalCount": 4
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "marssTMB",
+            "nameWithOwner": "atsa-es/marssTMB",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 12
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 5
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/marssTMB"
+        },
+        "atsa-es/mvdlm": {
+            "createdAt": "2022-09-19T22:26:34Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Multivariate dynamic linear models using Bayesian methods in Stan",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "mvdlm",
+            "nameWithOwner": "atsa-es/mvdlm",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/mvdlm"
+        },
+        "atsa-es/org-level-todo": {
+            "createdAt": "2021-09-24T17:40:20Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Just for keeping track of issues at the org level",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 2
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "org-level-todo",
+            "nameWithOwner": "atsa-es/org-level-todo",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/org-level-todo"
+        },
+        "atsa-es/pdfsizeopt-readme": {
+            "createdAt": "2023-05-17T15:54:29Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "PDF file size optimizer",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v2.0",
+                "nickname": "GNU GPLv2",
+                "spdxId": "GPL-2.0",
+                "url": "http://choosealicense.com/licenses/gpl-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "pdfsizeopt-readme",
+            "nameWithOwner": "atsa-es/pdfsizeopt-readme",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": {
+                "name": "pdfsizeopt",
+                "nameWithOwner": "pts/pdfsizeopt",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/379746?u=35c2c77660cbf325d8fa41d0bd1e9d60c26a3a9c&v=4",
+                    "login": "pts"
+                }
+            },
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/atsa-es/pdfsizeopt-readme"
+        },
+        "atsa-es/safs-timeseries": {
+            "createdAt": "2017-01-06T00:57:57Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Repository for miscellaneous code and data used in FISH 550 (Applied Time Series Analysis) at University of Washington",
+            "forks": {
+                "totalCount": 4
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 18
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "safs-timeseries",
+            "nameWithOwner": "atsa-es/safs-timeseries",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 6
+            },
+            "url": "https://github.com/atsa-es/safs-timeseries"
+        },
+        "atsa-es/tvvarss": {
+            "createdAt": "2015-12-03T16:08:41Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Time varying vector autoregressive state space modeling of community interactions in a Bayesian framework",
+            "forks": {
+                "totalCount": 7
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 8
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "tvvarss",
+            "nameWithOwner": "atsa-es/tvvarss",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 21
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 9
+            },
+            "url": "https://github.com/atsa-es/tvvarss"
+        },
+        "atsa-es/varlasso": {
+            "createdAt": "2021-04-22T22:46:16Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Repo for fitting Bayesian VAR models with shrinkage on coefficient estimates",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "varlasso",
+            "nameWithOwner": "atsa-es/varlasso",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72577611?v=4",
+                "login": "atsa-es"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/atsa-es/varlasso"
         },
         "ecosystem-state/calcofi-auto": {
             "createdAt": "2021-09-27T20:03:16Z",
@@ -15958,7 +17478,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "licenseInfo": null,
             "mentionableUsers": {
@@ -16478,7 +17998,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "licenseInfo": {
                 "name": "GNU General Public License v3.0",
@@ -16497,7 +18017,7 @@
             },
             "parent": null,
             "primaryLanguage": {
-                "name": "R"
+                "name": "HTML"
             },
             "pullRequests_Closed": {
                 "totalCount": 0
@@ -18364,7 +19884,7 @@
             },
             "description": "Resources for model and software development",
             "forks": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -19053,10 +20573,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 0
+                "totalCount": 3
             },
             "issues_Open": {
-                "totalCount": 3
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 1
@@ -19093,7 +20613,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "url": "https://github.com/nmfs-fish-tools/codespaces4r"
         },
@@ -19271,7 +20791,7 @@
                 "totalCount": 27
             },
             "issues_Open": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "languages": {
                 "totalCount": 4
@@ -19294,10 +20814,10 @@
                 "totalCount": 4
             },
             "pullRequests_Merged": {
-                "totalCount": 22
+                "totalCount": 23
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 4
@@ -19411,6 +20931,56 @@
                 "totalCount": 11
             },
             "url": "https://github.com/nmfs-fish-tools/journals"
+        },
+        "nmfs-fish-tools/minimizR": {
+            "createdAt": "2023-05-19T15:00:49Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Function minimizer for R",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "minimizR",
+            "nameWithOwner": "nmfs-fish-tools/minimizR",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/49072821?v=4",
+                "login": "nmfs-fish-tools"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/nmfs-fish-tools/minimizR"
         },
         "nmfs-fish-tools/nmfSharedUtilities": {
             "createdAt": "2019-10-30T19:50:25Z",
@@ -19563,7 +21133,7 @@
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 23
+                "totalCount": 25
             },
             "url": "https://github.com/nmfs-fish-tools/nmfspalette"
         },
@@ -19581,7 +21151,7 @@
                 "totalCount": 1
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 3
             },
             "languages": {
                 "totalCount": 2
@@ -20084,7 +21654,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "url": "https://github.com/nmfs-opensci/10-26-21-508-Compliance"
         },
@@ -20356,7 +21926,7 @@
             },
             "description": "GitHub Guide developed by NMFS R User Group",
             "forks": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "homepageUrl": "https://nmfs-opensci.github.io/GitHub-Guide",
             "issues_Closed": {
@@ -21101,7 +22671,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/nmfs-opensci/ResourceBook"
         },
@@ -21277,10 +22847,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 12
+                "totalCount": 15
             },
             "issues_Open": {
-                "totalCount": 5
+                "totalCount": 4
             },
             "languages": {
                 "totalCount": 0
@@ -21310,7 +22880,7 @@
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 5
+                "totalCount": 8
             },
             "url": "https://github.com/nmfs-opensci/nmfs-connect"
         },
@@ -21426,7 +22996,7 @@
             "forks": {
                 "totalCount": 0
             },
-            "homepageUrl": null,
+            "homepageUrl": "https://nmfs-opensci.github.io/nmfs-repos-visual-explorer/",
             "issues_Closed": {
                 "totalCount": 0
             },
@@ -21468,7 +23038,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/nmfs-opensci/nmfs-repos-visual-explorer"
         },
@@ -21531,7 +23101,7 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "issues_Open": {
                 "totalCount": 1
@@ -21582,11 +23152,11 @@
             },
             "description": "A Quarto extension for making title and cover pages for PDF output.",
             "forks": {
-                "totalCount": 9
+                "totalCount": 10
             },
             "homepageUrl": "https://nmfs-opensci.github.io/quarto_titlepages/",
             "issues_Closed": {
-                "totalCount": 22
+                "totalCount": 24
             },
             "issues_Open": {
                 "totalCount": 6
@@ -21626,7 +23196,7 @@
                 "totalCount": 3
             },
             "stargazers": {
-                "totalCount": 64
+                "totalCount": 69
             },
             "url": "https://github.com/nmfs-opensci/quarto_titlepages"
         },
@@ -21681,7 +23251,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 2
+                "totalCount": 4
             },
             "url": "https://github.com/nmfs-opensci/quarto_titlepages_v1"
         },
@@ -21690,16 +23260,16 @@
             "defaultBranchRef": {
                 "name": "main"
             },
-            "description": "Try out running R code in a blank codespace where VScode is configured for use with R.",
+            "description": "Setups for R in Codespaces",
             "forks": {
                 "totalCount": 1
             },
-            "homepageUrl": null,
+            "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "issues_Open": {
-                "totalCount": 2
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 0
@@ -21711,7 +23281,7 @@
                 "url": "http://choosealicense.com/licenses/mit/"
             },
             "mentionableUsers": {
-                "totalCount": 3
+                "totalCount": 5
             },
             "name": "r-vscode-codespaces",
             "nameWithOwner": "nmfs-opensci/r-vscode-codespaces",
@@ -21725,7 +23295,7 @@
                 "totalCount": 2
             },
             "pullRequests_Merged": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -21734,7 +23304,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/nmfs-opensci/r-vscode-codespaces"
         },
@@ -21911,7 +23481,7 @@
                 "totalCount": 5
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/nmfs-opensci/template_website_cv"
         },
@@ -21982,7 +23552,7 @@
                 "totalCount": 98
             },
             "issues_Open": {
-                "totalCount": 31
+                "totalCount": 33
             },
             "languages": {
                 "totalCount": 4
@@ -21994,7 +23564,7 @@
                 "url": "http://choosealicense.com/licenses/cc0-1.0/"
             },
             "mentionableUsers": {
-                "totalCount": 8
+                "totalCount": 9
             },
             "name": "doc",
             "nameWithOwner": "nmfs-stock-synthesis/doc",
@@ -22010,10 +23580,10 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 23
+                "totalCount": 25
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -22245,10 +23815,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 201
+                "totalCount": 202
             },
             "issues_Open": {
-                "totalCount": 84
+                "totalCount": 85
             },
             "languages": {
                 "totalCount": 4
@@ -22276,10 +23846,10 @@
                 "totalCount": 9
             },
             "pullRequests_Merged": {
-                "totalCount": 127
+                "totalCount": 130
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -22882,10 +24452,10 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 7
+                "totalCount": 9
             },
             "issues_Open": {
-                "totalCount": 3
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 0
@@ -22938,7 +24508,7 @@
                 "totalCount": 5
             },
             "issues_Open": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "languages": {
                 "totalCount": 4
@@ -22990,7 +24560,7 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 32
+                "totalCount": 33
             },
             "issues_Open": {
                 "totalCount": 33
@@ -23016,7 +24586,7 @@
                 "totalCount": 10
             },
             "pullRequests_Merged": {
-                "totalCount": 9
+                "totalCount": 13
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -23094,7 +24664,7 @@
         "noaa-garfo/discaRd": {
             "createdAt": "2020-07-10T13:46:35Z",
             "defaultBranchRef": {
-                "name": "master"
+                "name": "main"
             },
             "description": "An R package for calculating discards using the Cochran ratio estimator",
             "forks": {
@@ -25420,7 +26990,7 @@
                 "totalCount": 101
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -25582,7 +27152,7 @@
                 "totalCount": 49
             },
             "pullRequests_Open": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -26270,10 +27840,10 @@
             },
             "homepageUrl": "",
             "issues_Closed": {
-                "totalCount": 1006
+                "totalCount": 1008
             },
             "issues_Open": {
-                "totalCount": 40
+                "totalCount": 39
             },
             "languages": {
                 "totalCount": 7
@@ -26305,7 +27875,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 13
+                "totalCount": 12
             },
             "url": "https://github.com/pacific-hake/hake-assessment"
         },
@@ -26553,7 +28123,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "url": "https://github.com/pacific-hake/pacifichakemse"
         },
@@ -26826,10 +28396,10 @@
             },
             "homepageUrl": "http://pfmc-assessments.github.io/PacFIN.Utilities",
             "issues_Closed": {
-                "totalCount": 53
+                "totalCount": 57
             },
             "issues_Open": {
-                "totalCount": 39
+                "totalCount": 37
             },
             "languages": {
                 "totalCount": 1
@@ -26841,7 +28411,7 @@
                 "url": "http://choosealicense.com/licenses/other/"
             },
             "mentionableUsers": {
-                "totalCount": 17
+                "totalCount": 18
             },
             "name": "PacFIN.Utilities",
             "nameWithOwner": "pfmc-assessments/PacFIN.Utilities",
@@ -26857,10 +28427,10 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 14
+                "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -27041,13 +28611,13 @@
             },
             "homepageUrl": null,
             "issues_Closed": {
-                "totalCount": 21
+                "totalCount": 24
             },
             "issues_Open": {
-                "totalCount": 20
+                "totalCount": 19
             },
             "languages": {
-                "totalCount": 5
+                "totalCount": 6
             },
             "licenseInfo": {
                 "name": "Other",
@@ -27131,7 +28701,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/pfmc-assessments/copper_rockfish_2023"
         },
@@ -27549,7 +29119,7 @@
                 "totalCount": 44
             },
             "issues_Open": {
-                "totalCount": 27
+                "totalCount": 28
             },
             "languages": {
                 "totalCount": 1
@@ -27749,15 +29319,15 @@
             "forks": {
                 "totalCount": 6
             },
-            "homepageUrl": "",
+            "homepageUrl": "https://pfmc-assessments.github.io/sa4ss/",
             "issues_Closed": {
                 "totalCount": 36
             },
             "issues_Open": {
-                "totalCount": 38
+                "totalCount": 40
             },
             "languages": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "licenseInfo": {
                 "name": "Other",
@@ -27782,10 +29352,10 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 4
@@ -27916,10 +29486,10 @@
             },
             "homepageUrl": "https://r4ss.github.io/r4ss/",
             "issues_Closed": {
-                "totalCount": 318
+                "totalCount": 321
             },
             "issues_Open": {
-                "totalCount": 157
+                "totalCount": 158
             },
             "languages": {
                 "totalCount": 4
@@ -27942,10 +29512,10 @@
                 "totalCount": 14
             },
             "pullRequests_Merged": {
-                "totalCount": 313
+                "totalCount": 316
             },
             "pullRequests_Open": {
-                "totalCount": 5
+                "totalCount": 4
             },
             "repositoryTopics": {
                 "totalCount": 1
@@ -28405,7 +29975,7 @@
                 "totalCount": 15
             },
             "pullRequests_Merged": {
-                "totalCount": 104
+                "totalCount": 105
             },
             "pullRequests_Open": {
                 "totalCount": 1
@@ -28797,7 +30367,7 @@
                 "url": "http://choosealicense.com/licenses/other/"
             },
             "mentionableUsers": {
-                "totalCount": 3
+                "totalCount": 4
             },
             "name": "amlr-gliders",
             "nameWithOwner": "us-amlr/amlr-gliders",
@@ -29347,7 +30917,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "url": "https://github.com/us-amlr/viame-web-noaa-gcp"
         },

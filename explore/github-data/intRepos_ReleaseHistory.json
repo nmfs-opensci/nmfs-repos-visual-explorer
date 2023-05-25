@@ -143,6 +143,11 @@
                 ]
             }
         },
+        "NEFSC/READ-EDAB-ecopull": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "NEFSC/READ-PDB-AstroCalc4R": {
             "releases": {
                 "nodes": []
@@ -1096,6 +1101,16 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "stocksmart 0.6.6",
+                        "publishedAt": "2023-05-10T18:43:35Z",
+                        "tagName": "v0.6.6"
+                    },
+                    {
+                        "name": "stocksmart 0.6.5",
+                        "publishedAt": "2023-05-03T18:54:16Z",
+                        "tagName": "v0.6.5"
+                    },
+                    {
                         "name": "stocksmart 0.6.4",
                         "publishedAt": "2023-04-26T17:55:22Z",
                         "tagName": "v0.6.4"
@@ -1552,6 +1567,11 @@
                 ]
             }
         },
+        "PIFSCstockassessments/Uku_EFH": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "PIFSCstockassessments/WCNPOSWO-2023": {
             "releases": {
                 "nodes": []
@@ -1932,6 +1952,11 @@
                 "nodes": []
             }
         },
+        "TIDE-NWFSC/DEIAJ-Resources": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "TIDE-NWFSC/Hiring_Onboarding": {
             "releases": {
                 "nodes": []
@@ -2106,6 +2131,11 @@
                 "nodes": []
             }
         },
+        "afsc-assessments/goa_nork": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "afsc-assessments/goa_pcod": {
             "releases": {
                 "nodes": []
@@ -2243,6 +2273,11 @@
         "afsc-gap-products/akgfmaps": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "v3.0.0",
+                        "publishedAt": "2023-05-19T21:08:00Z",
+                        "tagName": "v3.0.0"
+                    },
                     {
                         "name": "v2.3.0",
                         "publishedAt": "2022-12-05T23:41:22Z",
@@ -2396,6 +2431,11 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v2.2-2",
+                        "publishedAt": "2023-05-16T23:43:56Z",
+                        "tagName": "v2.2-2"
+                    },
+                    {
                         "name": "2.2: Interpolate to a raster stack",
                         "publishedAt": "2023-03-07T16:21:56Z",
                         "tagName": "v2.2"
@@ -2500,6 +2540,11 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v1.5",
+                        "publishedAt": "2023-05-01T14:22:50Z",
+                        "tagName": "v1.5"
+                    },
+                    {
                         "name": "v1.3.3",
                         "publishedAt": "2022-11-16T21:30:26Z",
                         "tagName": "v1.3.3"
@@ -2534,7 +2579,18 @@
         },
         "afsc-gap-products/gapindex": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "pre-Summer 2023 BTS version",
+                        "publishedAt": "2023-05-14T22:19:53Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "Final version of AFSC.GAP.DBE",
+                        "publishedAt": "2023-05-09T02:12:41Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
             }
         },
         "afsc-gap-products/general": {
@@ -2669,6 +2725,316 @@
         "alaska-groundfish-efh/product-requests": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "atsa-es/MARSS": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "MARSS 3.11.7 (GitHub)",
+                        "publishedAt": "2023-05-20T04:27:01Z",
+                        "tagName": "v3.11.7"
+                    },
+                    {
+                        "name": "MARSS 3.11.6 (GitHub)",
+                        "publishedAt": "2023-05-11T06:04:55Z",
+                        "tagName": "v3.11.6"
+                    },
+                    {
+                        "name": "Version 3.11.4",
+                        "publishedAt": "2021-12-15T02:37:55Z",
+                        "tagName": "v3.11.4"
+                    },
+                    {
+                        "name": "Version 3.11.3",
+                        "publishedAt": "2020-10-20T23:52:53Z",
+                        "tagName": "v3.11.3"
+                    },
+                    {
+                        "name": "Version 3.11.2-beta",
+                        "publishedAt": "2020-10-03T02:25:56Z",
+                        "tagName": "v3.11.2-beta"
+                    },
+                    {
+                        "name": "Version 3.11.2",
+                        "publishedAt": "2020-09-14T01:57:12Z",
+                        "tagName": "v3.11.2"
+                    },
+                    {
+                        "name": "Version 3.11.1",
+                        "publishedAt": "2020-08-19T18:26:20Z",
+                        "tagName": "v3.11.1"
+                    },
+                    {
+                        "name": "Version 3.10.13",
+                        "publishedAt": "2020-02-25T22:26:51Z",
+                        "tagName": "v3.10.13"
+                    },
+                    {
+                        "name": "Version 3.10.12",
+                        "publishedAt": "2020-02-05T04:28:42Z",
+                        "tagName": "v3.10.12"
+                    },
+                    {
+                        "name": "Version 3.10.11",
+                        "publishedAt": "2019-08-03T23:47:38Z",
+                        "tagName": "3.10.11"
+                    },
+                    {
+                        "name": "Version 3.10.9",
+                        "publishedAt": "2018-03-30T22:41:20Z",
+                        "tagName": "3.10.9"
+                    },
+                    {
+                        "name": "Version 3.10.7-alpha",
+                        "publishedAt": "2018-03-30T00:03:49Z",
+                        "tagName": "3.10.7-alpha"
+                    },
+                    {
+                        "name": "Version 3.10.5",
+                        "publishedAt": "2018-03-15T19:06:19Z",
+                        "tagName": "3.10.5"
+                    },
+                    {
+                        "name": "Version 3.10.4",
+                        "publishedAt": "2018-02-28T03:08:29Z",
+                        "tagName": "3.10.4"
+                    },
+                    {
+                        "name": "Version 3.9",
+                        "publishedAt": "2017-03-28T20:31:00Z",
+                        "tagName": "3.9"
+                    }
+                ]
+            }
+        },
+        "atsa-es/MARSS-User-Guide": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/MARSS-pkgdown": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/MARSS-wiki": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/MARSS2": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsa": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Winter 2021",
+                        "publishedAt": "2023-03-06T19:49:59Z",
+                        "tagName": "Winter-2021"
+                    },
+                    {
+                        "name": "Winter 2019",
+                        "publishedAt": "2020-10-08T17:05:53Z",
+                        "tagName": "Winter-2019"
+                    }
+                ]
+            }
+        },
+        "atsa-es/atsa-es.github.io": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsa-es.r-universe.dev": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsa-labs": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "ATSA Lab Book Winter 2021",
+                        "publishedAt": "2021-05-07T00:15:41Z",
+                        "tagName": "v2.0"
+                    },
+                    {
+                        "name": "ATSA Lab Book Winter 2018",
+                        "publishedAt": "2020-01-30T05:05:15Z",
+                        "tagName": "v1.0"
+                    }
+                ]
+            }
+        },
+        "atsa-es/atsa2017": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsa2019": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsa2021": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/atsalibrary": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "version 1.3",
+                        "publishedAt": "2021-12-07T23:35:30Z",
+                        "tagName": "v1.3"
+                    }
+                ]
+            }
+        },
+        "atsa-es/atsar": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Update: include extremes!",
+                        "publishedAt": "2021-02-25T03:46:59Z",
+                        "tagName": "v0.1.6"
+                    },
+                    {
+                        "name": " Focus on univariate models",
+                        "publishedAt": "2021-02-04T13:19:11Z",
+                        "tagName": "0.1.5"
+                    },
+                    {
+                        "name": "Clean version for R 4.0",
+                        "publishedAt": "2021-02-03T01:17:29Z",
+                        "tagName": "0.1.4"
+                    },
+                    {
+                        "name": "Compatible with R 4.0",
+                        "publishedAt": "2021-02-02T15:42:13Z",
+                        "tagName": "0.1.3"
+                    },
+                    {
+                        "name": "Add missing values, change naming",
+                        "publishedAt": "2018-01-23T16:50:52Z",
+                        "tagName": "v1.0.1"
+                    },
+                    {
+                        "name": "Initial release for time series class",
+                        "publishedAt": "2017-03-07T19:46:49Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
+            }
+        },
+        "atsa-es/binder-environment": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/devcontainers-rstudio": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/fish550-2023": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/fish550-devcontainer": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/marssTMB": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.7 First draft of marssTMB package",
+                        "publishedAt": "2023-05-04T03:48:19Z",
+                        "tagName": "v0.0.7"
+                    }
+                ]
+            }
+        },
+        "atsa-es/mvdlm": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Initial commit",
+                        "publishedAt": "2022-09-19T22:53:45Z",
+                        "tagName": "v0.1.0"
+                    }
+                ]
+            }
+        },
+        "atsa-es/org-level-todo": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/pdfsizeopt-readme": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "atsa-es/safs-timeseries": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Version 1.0.3 Last version for Fish 507 Winter 2017",
+                        "publishedAt": "2018-06-22T22:04:55Z",
+                        "tagName": "v1.0.3"
+                    },
+                    {
+                        "name": "Zenodo release",
+                        "publishedAt": "2017-02-23T05:11:03Z",
+                        "tagName": "v1.0.2"
+                    },
+                    {
+                        "name": "Initial release for time series class",
+                        "publishedAt": "2017-02-23T04:55:15Z",
+                        "tagName": "1.0.1"
+                    }
+                ]
+            }
+        },
+        "atsa-es/tvvarss": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2021-02-25T14:37:12Z",
+                        "tagName": "v0.1.1"
+                    }
+                ]
+            }
+        },
+        "atsa-es/varlasso": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "PeerJ submit",
+                        "publishedAt": "2022-07-18T19:10:09Z",
+                        "tagName": "v1.1.1"
+                    },
+                    {
+                        "name": "varlasso: An R Package for Regularized Bayesian VAR and VARSS models",
+                        "publishedAt": "2022-02-08T23:15:02Z",
+                        "tagName": "v1.1.0"
+                    },
+                    {
+                        "name": "Initial release - end of 2021",
+                        "publishedAt": "2022-01-19T19:48:49Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
             }
         },
         "ecosystem-state/calcofi-auto": {
@@ -3086,6 +3452,26 @@
         "nmfs-fish-tools/MSSPM": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "1.7.1 Release for Windows",
+                        "publishedAt": "2023-05-22T21:13:23Z",
+                        "tagName": "v1.7.1-win"
+                    },
+                    {
+                        "name": "1.7.1 Release for Linux",
+                        "publishedAt": "2023-05-22T20:04:44Z",
+                        "tagName": "v1.7.1-linux"
+                    },
+                    {
+                        "name": "1.7.0 Release for Windows",
+                        "publishedAt": "2023-05-16T16:19:55Z",
+                        "tagName": "v1.7.0-win"
+                    },
+                    {
+                        "name": "1.7.0 Release for Linux",
+                        "publishedAt": "2023-05-13T20:38:00Z",
+                        "tagName": "v1.7.0-linux"
+                    },
                     {
                         "name": "1.6.4 Release for Windows",
                         "publishedAt": "2023-03-10T02:18:39Z",
@@ -4100,6 +4486,11 @@
             }
         },
         "nmfs-fish-tools/journals": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "nmfs-fish-tools/minimizR": {
             "releases": {
                 "nodes": []
             }
@@ -5392,6 +5783,11 @@
         "pacific-hake/hake-assessment": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "2023 Final",
+                        "publishedAt": "2023-05-04T22:55:03Z",
+                        "tagName": "v3.1"
+                    },
                     {
                         "name": "2022 Final",
                         "publishedAt": "2022-03-04T06:20:36Z",

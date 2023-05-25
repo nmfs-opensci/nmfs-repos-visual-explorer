@@ -131,6 +131,12 @@
         "topics": null,
         "website": "https://nefsc.github.io/READ-EDAB-NEespShiny/"
     },
+    "NEFSC/READ-EDAB-ecopull": {
+        "description": null,
+        "name": "NEFSC/READ-EDAB-ecopull",
+        "topics": null,
+        "website": null
+    },
     "NEFSC/READ-PDB-AstroCalc4R": {
         "description": "R and C software for calculating solar zenith angles; time at sunrise, local noon and sunset; and photosynthetically available radiation (PAR) based on date, time and location",
         "name": "NEFSC/READ-PDB-AstroCalc4R",
@@ -1092,6 +1098,12 @@
         "topics": null,
         "website": ""
     },
+    "PIFSCstockassessments/Uku_EFH": {
+        "description": "CPUE and other analysis to support the uku essential fish habitat analyses",
+        "name": "PIFSCstockassessments/Uku_EFH",
+        "topics": null,
+        "website": null
+    },
     "PIFSCstockassessments/WCNPOSWO-2023": {
         "description": null,
         "name": "PIFSCstockassessments/WCNPOSWO-2023",
@@ -1423,6 +1435,12 @@
         "topics": null,
         "website": null
     },
+    "TIDE-NWFSC/DEIAJ-Resources": {
+        "description": "This is a repository to house links and materials as DEIAJ resources for the NWFSC community.",
+        "name": "TIDE-NWFSC/DEIAJ-Resources",
+        "topics": null,
+        "website": null
+    },
     "TIDE-NWFSC/Hiring_Onboarding": {
         "description": null,
         "name": "TIDE-NWFSC/Hiring_Onboarding",
@@ -1591,6 +1609,12 @@
         "topics": null,
         "website": null
     },
+    "afsc-assessments/goa_nork": {
+        "description": null,
+        "name": "afsc-assessments/goa_nork",
+        "topics": null,
+        "website": null
+    },
     "afsc-assessments/goa_pcod": {
         "description": null,
         "name": "afsc-assessments/goa_pcod",
@@ -1680,7 +1704,9 @@
     "afsc-gap-products/RACE_Survey_App": {
         "description": null,
         "name": "afsc-gap-products/RACE_Survey_App",
-        "topics": null,
+        "topics": [
+            "documentation"
+        ],
         "website": "https://afsc-gap-products.github.io/RACE_Survey_App/index.html"
     },
     "afsc-gap-products/StationAllocationAIGOA": {
@@ -1748,7 +1774,8 @@
         "name": "afsc-gap-products/coldpool",
         "topics": [
             "ecosystem-status-report",
-            "environmental-data"
+            "environmental-data",
+            "climate"
         ],
         "website": ""
     },
@@ -1756,7 +1783,13 @@
         "description": "An empty repo for tracking requests for GAP data",
         "name": "afsc-gap-products/data-requests",
         "topics": [
-            "survey-data"
+            "survey-data",
+            "survey",
+            "alaska",
+            "data-management",
+            "noaa-fisheries",
+            "requests",
+            "groundfish"
         ],
         "website": ""
     },
@@ -1767,14 +1800,20 @@
             "groundfish",
             "alaska",
             "survey",
-            "bering-sea"
+            "bering-sea",
+            "noaa-fisheries"
         ],
         "website": ""
     },
     "afsc-gap-products/gap_products": {
         "description": null,
         "name": "afsc-gap-products/gap_products",
-        "topics": null,
+        "topics": [
+            "open-data",
+            "noaa-fisheries",
+            "index-production",
+            "groundfish"
+        ],
         "website": null
     },
     "afsc-gap-products/gap_public_data": {
@@ -1787,7 +1826,8 @@
             "survey",
             "crab",
             "data-public",
-            "noaa-fisheries"
+            "noaa-fisheries",
+            "open-data"
         ],
         "website": "https://www.fisheries.noaa.gov/foss/"
     },
@@ -1809,7 +1849,7 @@
         "website": ""
     },
     "afsc-gap-products/gapindex": {
-        "description": "Replicate design-based indices based on Wakabayashi et al. equations and SQL scripts. Resulting values should be comparable with tables in the GOA and AI schemas.",
+        "description": "Calculation of Design-Based Indices of Abundance and Composition for AFSC GAP Bottom Trawl Surveys",
         "name": "afsc-gap-products/gapindex",
         "topics": [
             "index-production",
@@ -1827,7 +1867,10 @@
     "afsc-gap-products/metadata": {
         "description": "This repository provides guidance for all of our data's metadata needs. ",
         "name": "afsc-gap-products/metadata",
-        "topics": null,
+        "topics": [
+            "documentation",
+            "open-data"
+        ],
         "website": null
     },
     "afsc-gap-products/navmaps": {
@@ -1867,7 +1910,11 @@
             "temperature",
             "map",
             "alaska",
-            "groundfish"
+            "groundfish",
+            "climate",
+            "noaa-fisheries",
+            "data-visualization",
+            "visualization"
         ],
         "website": "https://www.fisheries.noaa.gov/alaska/science-data/near-real-time-temperatures-bering-sea-bottom-trawl-survey"
     },
@@ -1886,6 +1933,188 @@
     "alaska-groundfish-efh/product-requests": {
         "description": "Empty repo mainly for storing and tracking data requests from other teams (see Issues/Projects)",
         "name": "alaska-groundfish-efh/product-requests",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/MARSS": {
+        "description": "Multivariate Autoregressive State-Space Modeling with R",
+        "name": "atsa-es/MARSS",
+        "topics": [
+            "cran",
+            "multivariate-timeseries",
+            "r-package",
+            "state-space-models",
+            "statistics",
+            "time-series"
+        ],
+        "website": "https://atsa-es.github.io/MARSS/"
+    },
+    "atsa-es/MARSS-User-Guide": {
+        "description": "The MARSS User Guide. https://cran.r-project.org/package=MARSS",
+        "name": "atsa-es/MARSS-User-Guide",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/MARSS-pkgdown": {
+        "description": "Multivariate Autoregressive State-Space Modeling with R",
+        "name": "atsa-es/MARSS-pkgdown",
+        "topics": null,
+        "website": "https://atsa-es.github.io/MARSS"
+    },
+    "atsa-es/MARSS-wiki": {
+        "description": null,
+        "name": "atsa-es/MARSS-wiki",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/MARSS2": {
+        "description": "Multivariate Autoregressive State-Space Modeling with R",
+        "name": "atsa-es/MARSS2",
+        "topics": null,
+        "website": "https://atsa-es.github.io/MARSS/"
+    },
+    "atsa-es/atsa": {
+        "description": "Applied Time Series Analysis - course website repository. ",
+        "name": "atsa-es/atsa",
+        "topics": [
+            "time-series",
+            "statistics",
+            "ecological-modelling"
+        ],
+        "website": "https://atsa-es.github.io/atsa/"
+    },
+    "atsa-es/atsa-es.github.io": {
+        "description": "Website repository for Applied Time-Series Analysis for Fisheries and Environmental Data",
+        "name": "atsa-es/atsa-es.github.io",
+        "topics": null,
+        "website": "https://atsa-es.github.io"
+    },
+    "atsa-es/atsa-es.r-universe.dev": {
+        "description": "CRAN-like repository for the atsa-es packages. Binaries are available for Windows and MacOS",
+        "name": "atsa-es/atsa-es.r-universe.dev",
+        "topics": null,
+        "website": "https://atsa-es.r-universe.dev/packages"
+    },
+    "atsa-es/atsa-labs": {
+        "description": "Labs developed for Applied Fisheries Time-series Analysis course.  The link for the text is https://atsa-es.github.io/atsa-labs/",
+        "name": "atsa-es/atsa-labs",
+        "topics": null,
+        "website": ""
+    },
+    "atsa-es/atsa2017": {
+        "description": "Fish 507 Applied Time Series Analysis 2017",
+        "name": "atsa-es/atsa2017",
+        "topics": null,
+        "website": "https://atsa-es.github.io/atsa2017/"
+    },
+    "atsa-es/atsa2019": {
+        "description": "Applied Time Series Analysis - 2019 course website repository.",
+        "name": "atsa-es/atsa2019",
+        "topics": null,
+        "website": "https://atsa-es.github.io/atsa2019/"
+    },
+    "atsa-es/atsa2021": {
+        "description": "Applied Time Series Analysis - 2021 course website repository.",
+        "name": "atsa-es/atsa2021",
+        "topics": null,
+        "website": "https://atsa-es.github.io/atsa2021/"
+    },
+    "atsa-es/atsalibrary": {
+        "description": "Data, scripts and packages for ATSA course and book. Students should install this before running examples in the lab book.",
+        "name": "atsa-es/atsalibrary",
+        "topics": null,
+        "website": "https://atsa-es.github.io/atsalibrary/"
+    },
+    "atsa-es/atsar": {
+        "description": "Applied time series analysis in R with Stan.  Allows fast Bayesian fitting of multivariate time-series models.",
+        "name": "atsa-es/atsar",
+        "topics": [
+            "bayesian",
+            "r-package",
+            "stan",
+            "time-series"
+        ],
+        "website": "https://atsa-es.github.io/atsar/"
+    },
+    "atsa-es/binder-environment": {
+        "description": "A binder environment for ATSA material. Make sure to read the wiki (tab to left) to read about my pain points.",
+        "name": "atsa-es/binder-environment",
+        "topics": null,
+        "website": ""
+    },
+    "atsa-es/devcontainers-rstudio": {
+        "description": "Zero-setup R workshops with GitHub Codespaces",
+        "name": "atsa-es/devcontainers-rstudio",
+        "topics": null,
+        "website": ""
+    },
+    "atsa-es/fish550-2023": {
+        "description": "GitHub Repo for FISH 550 2023",
+        "name": "atsa-es/fish550-2023",
+        "topics": null,
+        "website": "https://atsa-es.github.io/fish550-2023/"
+    },
+    "atsa-es/fish550-devcontainer": {
+        "description": "A devcontainer for FISH 550",
+        "name": "atsa-es/fish550-devcontainer",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/marssTMB": {
+        "description": "Companion package for MARSS that allows you to use TMB to fit MARSS models",
+        "name": "atsa-es/marssTMB",
+        "topics": [
+            "tmb",
+            "marss",
+            "multivariate-timeseries",
+            "state-space-model",
+            "time-series"
+        ],
+        "website": "https://atsa-es.github.io/marssTMB/"
+    },
+    "atsa-es/mvdlm": {
+        "description": "Multivariate dynamic linear models using Bayesian methods in Stan",
+        "name": "atsa-es/mvdlm",
+        "topics": [
+            "dlm",
+            "r-package",
+            "stan",
+            "time-series"
+        ],
+        "website": ""
+    },
+    "atsa-es/org-level-todo": {
+        "description": "Just for keeping track of issues at the org level",
+        "name": "atsa-es/org-level-todo",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/pdfsizeopt-readme": {
+        "description": "PDF file size optimizer",
+        "name": "atsa-es/pdfsizeopt-readme",
+        "topics": null,
+        "website": null
+    },
+    "atsa-es/safs-timeseries": {
+        "description": "Repository for miscellaneous code and data used in FISH 550 (Applied Time Series Analysis) at University of Washington",
+        "name": "atsa-es/safs-timeseries",
+        "topics": null,
+        "website": ""
+    },
+    "atsa-es/tvvarss": {
+        "description": "Time varying vector autoregressive state space modeling of community interactions in a Bayesian framework",
+        "name": "atsa-es/tvvarss",
+        "topics": [
+            "multivariate-models",
+            "state-space",
+            "bayesian",
+            "r-package"
+        ],
+        "website": ""
+    },
+    "atsa-es/varlasso": {
+        "description": "Repo for fitting Bayesian VAR models with shrinkage on coefficient estimates",
+        "name": "atsa-es/varlasso",
         "topics": null,
         "website": null
     },
@@ -2330,6 +2559,12 @@
         "topics": null,
         "website": null
     },
+    "nmfs-fish-tools/minimizR": {
+        "description": "Function minimizer for R",
+        "name": "nmfs-fish-tools/minimizR",
+        "topics": null,
+        "website": null
+    },
     "nmfs-fish-tools/nmfSharedUtilities": {
         "description": "Group of common Qt project folders",
         "name": "nmfs-fish-tools/nmfSharedUtilities",
@@ -2578,7 +2813,7 @@
         "description": "visual explorer of the NMFS GitHub Ecosystem",
         "name": "nmfs-opensci/nmfs-repos-visual-explorer",
         "topics": null,
-        "website": null
+        "website": "https://nmfs-opensci.github.io/nmfs-repos-visual-explorer/"
     },
     "nmfs-opensci/posit-webinar-series": {
         "description": "Materials from the Posit Webinar Series, FY 2023",
@@ -2609,10 +2844,10 @@
         "website": "https://nmfs-opensci.github.io/quarto_titlepages_v1"
     },
     "nmfs-opensci/r-vscode-codespaces": {
-        "description": "Try out running R code in a blank codespace where VScode is configured for use with R.",
+        "description": "Setups for R in Codespaces",
         "name": "nmfs-opensci/r-vscode-codespaces",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "nmfs-opensci/rug-citations": {
         "description": "repository in support of the NMFS R User Group Discussion on Citations in RStudio/Quarto",
@@ -3371,7 +3606,7 @@
             "bookdown",
             "stock-synthesis"
         ],
-        "website": ""
+        "website": "https://pfmc-assessments.github.io/sa4ss/"
     },
     "r4ss/SSutils": {
         "description": null,

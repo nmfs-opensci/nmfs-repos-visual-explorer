@@ -243,6 +243,7 @@
                     "nmfs-fish-tools/ht4sa",
                     "nmfs-fish-tools/nmfspalette",
                     "nmfs-fish-tools/r4MAS",
+                    "nmfs-opensci/r-vscode-codespaces",
                     "noaa-fisheries-integrated-toolbox/resources"
                 ]
             },
@@ -270,6 +271,7 @@
                     "afsc-assessments/afscdata",
                     "afsc-assessments/gf_specs",
                     "afsc-assessments/goa_dusky",
+                    "afsc-assessments/goa_nork",
                     "afsc-assessments/sop"
                 ]
             },
@@ -582,6 +584,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -850,6 +853,16 @@
             },
             "login": "EvertJanVantLand",
             "name": null
+        },
+        "Evfrench": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/128874521?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "Evfrench",
+            "name": "Eric French"
         },
         "FSinniger": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/86182451?v=4",
@@ -1320,6 +1333,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -1569,6 +1583,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -1699,6 +1714,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9124240?u=07d86036d8337b3d444104f3ab011ba2481b6c52&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "atsa-es/fish550-2023",
                     "pfmc-assessments/nwfscSurvey"
                 ]
             },
@@ -2093,6 +2109,7 @@
                     "NOAA-EDAB/survdat",
                     "NOAA-FIMS/FIMS_training",
                     "PIFSCstockassessments/expalg.cie",
+                    "atsa-es/tvvarss",
                     "ecosystem-state/calcofi-auto",
                     "nmfs-fish-tools/SSMSE",
                     "nmfs-fish-tools/pkgdownTemplate",
@@ -2161,6 +2178,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/80843508?u=8b36ace594ec8b871d769bf2f4c512630d16e506&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "pfmc-assessments/PacFIN.Utilities",
                     "pfmc-assessments/lingcod"
                 ]
             },
@@ -2354,6 +2372,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/Shiny-User-Group",
                     "NOAA-EDAB/CAMS",
                     "NOAA-EDAB/DecisionSupportTool",
@@ -2965,7 +2984,7 @@
             "name": "Christine Stawitz"
         },
         "curryc2": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4432049?u=443879dbe48a24f4ca05b6ba0fb0c3d8ba70a2de&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4432049?u=4406374a21932b0bb1613c68b613a0f6558c499f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "ecosystem-state/nonstationary",
@@ -3034,6 +3053,16 @@
                 ]
             },
             "login": "detommas",
+            "name": null
+        },
+        "dhubl": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/128754416?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "dhubl",
             "name": null
         },
         "diminera": {
@@ -3171,6 +3200,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "nmfs-fish-tools/SSMSE",
+                    "nmfs-opensci/r-vscode-codespaces",
                     "nmfs-stock-synthesis/doc",
                     "nmfs-stock-synthesis/stock-synthesis",
                     "nmfs-stock-synthesis/test-models",
@@ -3236,6 +3266,31 @@
                     "RVerse-Tutorials/slides",
                     "RVerse-Tutorials/webR-quarto-demos",
                     "afsc-gap-products/afsc-gap-products.github.io",
+                    "atsa-es/MARSS",
+                    "atsa-es/MARSS-User-Guide",
+                    "atsa-es/MARSS-pkgdown",
+                    "atsa-es/MARSS-wiki",
+                    "atsa-es/MARSS2",
+                    "atsa-es/atsa",
+                    "atsa-es/atsa-es.github.io",
+                    "atsa-es/atsa-es.r-universe.dev",
+                    "atsa-es/atsa-labs",
+                    "atsa-es/atsa2017",
+                    "atsa-es/atsa2019",
+                    "atsa-es/atsa2021",
+                    "atsa-es/atsalibrary",
+                    "atsa-es/atsar",
+                    "atsa-es/binder-environment",
+                    "atsa-es/devcontainers-rstudio",
+                    "atsa-es/fish550-2023",
+                    "atsa-es/fish550-devcontainer",
+                    "atsa-es/marssTMB",
+                    "atsa-es/mvdlm",
+                    "atsa-es/org-level-todo",
+                    "atsa-es/pdfsizeopt-readme",
+                    "atsa-es/safs-timeseries",
+                    "atsa-es/tvvarss",
+                    "atsa-es/varlasso",
                     "nmfs-fish-tools/Resources",
                     "nmfs-fish-tools/pkgdownTemplate",
                     "nmfs-opensci/10-26-21-508-Compliance",
@@ -3289,6 +3344,16 @@
             },
             "login": "eeholmes",
             "name": "Eli Holmes - NOAA"
+        },
+        "eelmstrom": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/60152026?u=ab05b915795b50ae261287159f8cfcc414ab8f24&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "eelmstrom",
+            "name": null
         },
         "eem1": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/92050465?u=11e51ea41950ccd99dac043da6d8da77aa8262b8&v=4",
@@ -3366,10 +3431,45 @@
             "login": "emilyhmarkowitz",
             "name": "Em Markowitz"
         },
+        "emmats": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4564812?u=394e88d2d243c9be544d797e90e11e754de32fad&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "emmats",
+            "name": "emmats"
+        },
         "ericward-noaa": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5046884?u=7ab4b04302f56338cf7ab27b5c4054db3258ce0c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "atsa-es/MARSS",
+                    "atsa-es/MARSS-User-Guide",
+                    "atsa-es/MARSS-pkgdown",
+                    "atsa-es/MARSS-wiki",
+                    "atsa-es/MARSS2",
+                    "atsa-es/atsa",
+                    "atsa-es/atsa-es.github.io",
+                    "atsa-es/atsa-es.r-universe.dev",
+                    "atsa-es/atsa-labs",
+                    "atsa-es/atsa2017",
+                    "atsa-es/atsa2019",
+                    "atsa-es/atsa2021",
+                    "atsa-es/atsalibrary",
+                    "atsa-es/atsar",
+                    "atsa-es/binder-environment",
+                    "atsa-es/devcontainers-rstudio",
+                    "atsa-es/fish550-2023",
+                    "atsa-es/fish550-devcontainer",
+                    "atsa-es/marssTMB",
+                    "atsa-es/mvdlm",
+                    "atsa-es/org-level-todo",
+                    "atsa-es/pdfsizeopt-readme",
+                    "atsa-es/safs-timeseries",
+                    "atsa-es/tvvarss",
+                    "atsa-es/varlasso",
                     "ecosystem-state/calcofi-auto",
                     "ecosystem-state/ecodata",
                     "ecosystem-state/juvenile_indices",
@@ -3537,6 +3637,16 @@
             "login": "fishgal64",
             "name": "Erin"
         },
+        "fishnick62": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/93675000?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "fishnick62",
+            "name": null
+        },
         "fquezadae": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/71149069?u=b3c1b17e29a10802cbe3236499d3eab6317869aa&v=4",
             "contributedLabRepositories": {
@@ -3676,6 +3786,16 @@
             "login": "gregwilliamsnoaa",
             "name": "Greg Williams"
         },
+        "guidel96": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/35503912?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/atsa-labs"
+                ]
+            },
+            "login": "guidel96",
+            "name": null
+        },
         "gustavdelius": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1340713?v=4",
             "contributedLabRepositories": {
@@ -3695,6 +3815,16 @@
             },
             "login": "ha0ye",
             "name": "Hao Ye"
+        },
+        "hailaschultz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/103768032?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "hailaschultz",
+            "name": null
         },
         "haleyoleynik": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/78555815?u=cdbf972291e7ba0cb2dce57c4c990c435a78f2ee&v=4",
@@ -3816,6 +3946,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -3869,6 +4000,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9114814?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "atsa-es/MARSS",
                     "nwfsc-math-bio/DMVRAPapp",
                     "nwfsc-math-bio/VRAP"
                 ]
@@ -4129,7 +4261,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/28546087?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "us-amlr/Standard-glider-files"
+                    "us-amlr/Standard-glider-files",
+                    "us-amlr/amlr-gliders"
                 ]
             },
             "login": "jgwalsh",
@@ -4335,6 +4468,20 @@
             "login": "jordanwatson",
             "name": "Jordan Watson"
         },
+        "josielm11": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/134432217?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "NWFSC-OA-lab/Krill-pilot-2021",
+                    "NWFSC-OA-lab/krill_respirometry_2019",
+                    "NWFSC-OA-lab/krill_size_2019",
+                    "NWFSC-OA-lab/krill_survival_2019",
+                    "NWFSC-OA-lab/krl_lrv_ph_temp_2021"
+                ]
+            },
+            "login": "josielm11",
+            "name": null
+        },
         "jothdavis": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/91155259?v=4",
             "contributedLabRepositories": {
@@ -4474,6 +4621,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -4529,6 +4677,7 @@
                 "nodes": [
                     "NOAA-FIMS/FIMS",
                     "NOAA-FIMS/collaborative_workflow",
+                    "atsa-es/MARSS",
                     "nmfs-fish-tools/2BOX",
                     "nmfs-fish-tools/AGEPRO",
                     "nmfs-fish-tools/AIM",
@@ -4658,6 +4807,16 @@
             },
             "login": "karensnyder1",
             "name": null
+        },
+        "kaskales": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12214000?u=affde9d1431a29530b5a60313e20284a31837743&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/atsa-labs"
+                ]
+            },
+            "login": "kaskales",
+            "name": "Kaska"
         },
         "kaskr": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5426937?v=4",
@@ -4849,6 +5008,7 @@
                     "NEFSC/NEFSC-ShinySurveyResults",
                     "NEFSC/NEFSC-Spatial",
                     "NEFSC/NEFSC-shiny-book",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/Shiny-User-Group",
                     "NOAA-EDAB/CAMS",
                     "NOAA-EDAB/DecisionSupportTool",
@@ -4898,6 +5058,16 @@
             "login": "kimberly-bastille",
             "name": "Kimberly Bastille (NOAA Contractor)"
         },
+        "kimparsons": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24965030?u=99baa47ecf435da512949fa29f91d951744dbd16&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "TIDE-NWFSC/DEIAJ-Resources"
+                ]
+            },
+            "login": "kimparsons",
+            "name": "kimparsons"
+        },
         "kjwiniarski": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/54673787?v=4",
             "contributedLabRepositories": {
@@ -4944,6 +5114,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -5048,6 +5219,16 @@
             },
             "login": "kristinmarshall-NOAA",
             "name": "Kristin Marshall NWFSC"
+        },
+        "krtanaka": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14017621?u=5ff356f5e4936994d4c0d68bf4bc1c86fe335aa4&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "PIFSCstockassessments/Uku_EFH"
+                ]
+            },
+            "login": "krtanaka",
+            "name": "Kisei R. Tanaka"
         },
         "krystalwoodard": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/86370775?v=4",
@@ -5179,6 +5360,20 @@
             "login": "lucilahb",
             "name": null
         },
+        "m-p-anderson": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/133931047?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "NWFSC-OA-lab/Krill-pilot-2021",
+                    "NWFSC-OA-lab/krill_respirometry_2019",
+                    "NWFSC-OA-lab/krill_size_2019",
+                    "NWFSC-OA-lab/krill_survival_2019",
+                    "NWFSC-OA-lab/krl_lrv_ph_temp_2021"
+                ]
+            },
+            "login": "m-p-anderson",
+            "name": null
+        },
         "makahmad": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/19351474?u=7d2cfc3743234b6afa5295dbdaafa375fdd12781&v=4",
             "contributedLabRepositories": {
@@ -5194,7 +5389,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "PIFSCstockassessments/MHI-Uku-2020-Final",
-                    "PIFSCstockassessments/StepwiseLH"
+                    "PIFSCstockassessments/StepwiseLH",
+                    "PIFSCstockassessments/Uku_EFH"
                 ]
             },
             "login": "marcnadon",
@@ -5209,6 +5405,16 @@
             },
             "login": "mari-williams",
             "name": "Mari Williams"
+        },
+        "maria-kuruvilla": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/40224569?u=93d534aead9781846fae7661af465aa9eacd76d9&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "maria-kuruvilla",
+            "name": "Maria Kuruvilla"
         },
         "marilobatomartins": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/85708608?v=4",
@@ -5262,6 +5468,16 @@
             "login": "mchaji",
             "name": null
         },
+        "mcmudge": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43593981?u=8c6084a3a9fbad14cf6605409739a516cd77dc5a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "mcmudge",
+            "name": "Miranda Mudge"
+        },
         "mdbryan": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8961921?v=4",
             "contributedLabRepositories": {
@@ -5271,6 +5487,40 @@
             },
             "login": "mdbryan",
             "name": "Meaghan Bryan"
+        },
+        "mdscheuerell": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5048528?u=c8566c5cb5682ab86a1927c70ab7de0b724564e7&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/MARSS",
+                    "atsa-es/MARSS-User-Guide",
+                    "atsa-es/MARSS-pkgdown",
+                    "atsa-es/MARSS-wiki",
+                    "atsa-es/MARSS2",
+                    "atsa-es/atsa",
+                    "atsa-es/atsa-es.github.io",
+                    "atsa-es/atsa-es.r-universe.dev",
+                    "atsa-es/atsa-labs",
+                    "atsa-es/atsa2017",
+                    "atsa-es/atsa2019",
+                    "atsa-es/atsa2021",
+                    "atsa-es/atsalibrary",
+                    "atsa-es/atsar",
+                    "atsa-es/binder-environment",
+                    "atsa-es/devcontainers-rstudio",
+                    "atsa-es/fish550-2023",
+                    "atsa-es/fish550-devcontainer",
+                    "atsa-es/marssTMB",
+                    "atsa-es/mvdlm",
+                    "atsa-es/org-level-todo",
+                    "atsa-es/pdfsizeopt-readme",
+                    "atsa-es/safs-timeseries",
+                    "atsa-es/tvvarss",
+                    "atsa-es/varlasso"
+                ]
+            },
+            "login": "mdscheuerell",
+            "name": "Mark Scheuerell"
         },
         "meagschrandtphd": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/50665788?u=56612fabd8edde835c5e523f7e82febaf52b65bd&v=4",
@@ -5624,6 +5874,7 @@
                     "nmfs-fish-tools/MAS",
                     "nmfs-fish-tools/NMFS_Assert",
                     "nmfs-fish-tools/ht4sa",
+                    "nmfs-fish-tools/minimizR",
                     "nmfs-fish-tools/r4MAS"
                 ]
             },
@@ -5758,6 +6009,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/205013?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "atsa-es/atsar",
                     "pacific-hake/ss3roms",
                     "pfmc-assessments/Assessment_Background_Materials",
                     "pfmc-assessments/PEPtools",
@@ -6115,6 +6367,16 @@
             "login": "samanthaseals",
             "name": "Samantha"
         },
+        "sampottinger": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/110391?u=a09818faabade08f626a7fe9dd74ee4d8d423f70&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "afsc-gap-products/gap_public_data"
+                ]
+            },
+            "login": "sampottinger",
+            "name": "A Samuel Pottinger"
+        },
         "scross015": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6675332?v=4",
             "contributedLabRepositories": {
@@ -6319,6 +6581,16 @@
             "login": "shcaba",
             "name": "Jason Cope"
         },
+        "shipmadison": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32966990?u=99d58f3ee1fa664fd20f0d805df42a34fff97993&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "shipmadison",
+            "name": null
+        },
         "sjhwa": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/49468652?u=e5065cfc515719ddb596a7ca27fd8ad90b9d3b46&v=4",
             "contributedLabRepositories": {
@@ -6327,6 +6599,16 @@
                 ]
             },
             "login": "sjhwa",
+            "name": null
+        },
+        "sl-katz63": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25804924?u=2aef7c55f9ea57381147a4120fdb00e9147fb30b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/tvvarss"
+                ]
+            },
+            "login": "sl-katz63",
             "name": null
         },
         "slarge": {
@@ -6589,6 +6871,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/49964792?u=26934f719055829b5c88abc38331a492b971ea55&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "nmfs-stock-synthesis/doc",
                     "nmfs-stock-synthesis/helper",
                     "pfmc-assessments/nwfscDiscard",
                     "r4ss/r4ss"
@@ -6675,6 +6958,7 @@
                     "NEFSC/READ-EDAB-ESP_docs",
                     "NEFSC/READ-EDAB-NEesp",
                     "NEFSC/READ-EDAB-NEespShiny",
+                    "NEFSC/READ-EDAB-ecopull",
                     "NEFSC/READ-PDB-AstroCalc4R",
                     "NEFSC/READ-PDB-CPERRETTI-index_methods",
                     "NEFSC/READ-PDB-CPERRETTI-misreporting_timeframe",
@@ -6724,6 +7008,26 @@
             "login": "tsejkora",
             "name": null
         },
+        "twangss": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64990220?u=50d176351e154a9a22d7a095e0c1bcfb472a4643&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "twangss",
+            "name": "Terrance Wang"
+        },
+        "veggerk": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/90000892?u=9b92fd5985e0f7d777809520bdecc07f8c0dc581&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "veggerk",
+            "name": "Karl Veggerby"
+        },
         "wStockhausen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5767668?u=503e4f515dda8a47bbade045a9c50586cdf5e192&v=4",
             "contributedLabRepositories": {
@@ -6752,7 +7056,7 @@
                 ]
             },
             "login": "willklaj",
-            "name": "Willem Klajbor"
+            "name": "Willem Klajbor (NOAA Contractor)"
         },
         "willsatterthwaite": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/9085541?v=4",
@@ -6834,6 +7138,16 @@
             },
             "login": "zeroyin",
             "name": "Yihao Yin"
+        },
+        "zoer27": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/72156114?u=b6bcc9a69b5d274817c88b6d9c7102e15b1994bf&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "atsa-es/fish550-2023"
+                ]
+            },
+            "login": "zoer27",
+            "name": null
         },
         "zoyafuso-NOAA": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/60302777?u=5a9202aef12a7413ca74e18053d6276d0cca24c7&v=4",

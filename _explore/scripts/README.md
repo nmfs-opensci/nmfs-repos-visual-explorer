@@ -41,8 +41,9 @@ This is info on all the NMFS GitHub orgs. This is created in nmfs-opensci/NMFS_r
 
 ## Now start building!
 
-This is all from a zsh Terminal. If your not using that, then you'll need to store your GitHub API token in a different place, i.e. wherever bash needs it.
+This is all from a zsh Terminal (eg in VS Code). If your not using that, then you'll need to store your GitHub API token in a different place, i.e. wherever bash needs it.
 
+First time you start working you need to set up the environment.
 ```
 # Create a Python virtual environment
 virtualenv -p python3 venv
@@ -52,7 +53,18 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
+Next time you can just activate the environment
+```
+source venv/bin/activate
+```
+
+Then
+
+cd into `_explore/scripts`
+
+```
 # Run the script to get details from json file
 bash grabNewRepos_EEH.sh
 
