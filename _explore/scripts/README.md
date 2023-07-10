@@ -71,8 +71,10 @@ bash grabNewRepos_EEH.sh
 # Run the collection script
 # This takes a while as it uses the GitHub API to get info
 bash BUILD.sh
+```
 
-# Serve the Jekyl Page
+Now cd back to main folder and run the Jekyll server
+```
 bundle exec jekyll serve
 ```
 
