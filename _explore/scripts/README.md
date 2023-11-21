@@ -1,16 +1,19 @@
-# Updating the visualizer
+# The visualizer
 
 These are a set of scripts for updating the local github data in this repository, used as the source for displaying the content.
 
 ## Overview of the nmfs-opensci changes
 
-- Made a script _explore/scripts/import_code_json.py to get the json from data exported from calls to GithHub API and put it in the _data folder
-- Changed BUILD.sh to use that
-- edited _config.yml
-- created code.json in nmfs-opensci/NMFS_repos
-- made a reqular (classic) personal GitHub token and saved to my .zsh file
+- Made a script `_explore/scripts/import_code_json.py` to get the json from data exported from calls to GithHub API and put it in the _data folder
+- Changed `_explore/scripts/BUILD.sh` to use that
+- edited `_config.yml`
+- created `_explore/code.json` from script in [nmfs-opensci/NMFS-repos](https://github.com/nmfs-opensci/NMFS-repos). Copy manually over.
+- made a regular (classic) personal GitHub token and saved to my .zsh file
 
-#### high level overview
+## Creating your own dashboard
+
+### Overview
+
 - Developer clicks on green "Use This Template" button on the <a href="https://github.com/JustinGOSSES/awesome-list-visual-explorer-template">awesome-list-visual-explorer-template repository page</a>. 
 - They change information in the _config.yml file
 - They install ruby and jekyl 
@@ -20,7 +23,7 @@ These are a set of scripts for updating the local github data in this repository
 - Run `bundle exec jekyll serve` to start up a server that will show a local version of the webpage at http://127.0.0.1:4000/nmfs-repos-visual-explorer
 - Push up to GitHub and turn on GitHub Pages for the repository and the visual explorer page will appear.
 
-## Get set up
+### Get set up
 
 * This workflow needs Python. So install that if needed.
 * Open a Terminal
@@ -34,12 +37,16 @@ Running this will install everything in your Gemfile (including Jekyll). Note, p
 echo 'export GITHUB_API_TOKEN=xyz' >> ~/.zshenv
 ```
 
-## Create or update code.json
+### Create or update code.json
 
-This is info on all the NMFS GitHub orgs. This is created in nmfs-opensci/NMFS_repos. Search for `code.json` Remake that file and save copy in `_explore` folder in this repo.
+This is info on all the NMFS GitHub orgs. This is created with the file
+```
+nmfs-opensci/NMFS_repos/create_repo_json.qmd
+```
+Open that file and run to update `code.json`. Remake that file and save copy in `_explore` folder in this repo.
 
 
-## Now start building!
+### Now start building!
 
 This is all from a zsh Terminal (eg in VS Code). If your not using that, then you'll need to store your GitHub API token in a different place, i.e. wherever bash needs it.
 
